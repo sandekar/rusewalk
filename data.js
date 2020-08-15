@@ -36,7 +36,62 @@ var APP_DATA = {
           "target": "1-2---"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.16795823626049078,
+          "pitch": -0.10827879899312087,
+          "title": "3d obj",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.5417999549652048,
+          "pitch": -0.6323329209407156,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.19595681463437487,
+          "pitch": 0.32121096680797123,
+          "title": "The violinist",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.4680667804541105,
+          "pitch": -0.5703694455293942,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.8257692454597745,
+          "pitch": 0.13422087695052554,
+          "title": "Alexandrovska str.&nbsp;",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.7035123885098784,
+          "pitch": -0.5146798434130986,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.8860852686695715,
+          "pitch": -0.48926021454353474,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.398249449293374,
+          "pitch": -0.5340036143516684,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.0702179073049773,
+          "pitch": -0.2699152462772645,
+          "title": "Can be removed",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "1-2---",
@@ -80,7 +135,38 @@ var APP_DATA = {
           "target": "2-3--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 1.8775717384303814,
+          "pitch": -0.42070201267382146,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.0256505246178573,
+          "pitch": -0.27187180338017747,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.815704333239399,
+          "pitch": -0.5778112630793899,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.4682896194531843,
+          "pitch": -0.26761070992095526,
+          "title": "Duplicate",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.0336625338811363,
+          "pitch": -0.8443477287908685,
+          "title": "Duplicated",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "2-3--",
@@ -124,7 +210,14 @@ var APP_DATA = {
           "target": "1-2---"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.5306468512989824,
+          "pitch": -0.894126359680218,
+          "title": "Duplicate",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "3-4--",
@@ -168,7 +261,20 @@ var APP_DATA = {
           "target": "2-3--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.448734456307216,
+          "pitch": -0.6036657690699148,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.34592421604793877,
+          "pitch": -0.6235508604025917,
+          "title": "Can be removed",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "4-5-",
@@ -212,7 +318,20 @@ var APP_DATA = {
           "target": "5-6--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.751373947076509,
+          "pitch": -0.641512591617925,
+          "title": "Can be removed",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.698381697360899,
+          "pitch": -0.8339198398982433,
+          "title": "Duplicate",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "5-6--",
@@ -262,7 +381,26 @@ var APP_DATA = {
           "target": "7-8--china-city"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.9849975925985177,
+          "pitch": -0.37631281041976195,
+          "title": "Title",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.9830989534910994,
+          "pitch": -0.3362910632405782,
+          "title": "Mebeli Aron",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.5828591192704344,
+          "pitch": -0.43111641397178246,
+          "title": "Title",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "6-7--",
@@ -306,7 +444,14 @@ var APP_DATA = {
           "target": "5-6--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.043364958914065,
+          "pitch": -0.30734146491396963,
+          "title": "Here",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "7-8--china-city",
@@ -356,7 +501,14 @@ var APP_DATA = {
           "target": "5-6--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.4998251377656775,
+          "pitch": -0.47708124988112033,
+          "title": "Title",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "8-9-china-city",
@@ -400,7 +552,14 @@ var APP_DATA = {
           "target": "7-8--china-city"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.346524605008942,
+          "pitch": -0.6356939173323646,
+          "title": "Here",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "9-10--",
@@ -444,7 +603,20 @@ var APP_DATA = {
           "target": "8-9-china-city"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.0453870847013782,
+          "pitch": -0.8098675174512362,
+          "title": "Title",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.12694039904223686,
+          "pitch": -0.453782383794298,
+          "title": "Title",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "10-11-",
@@ -488,7 +660,14 @@ var APP_DATA = {
           "target": "9-10--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.1241522843127747,
+          "pitch": -0.8562322123996484,
+          "title": "Title",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "11-12-",
@@ -532,7 +711,32 @@ var APP_DATA = {
           "target": "10-11-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.17374885316873723,
+          "pitch": -0.36830390963530313,
+          "title": "Title",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.6509955759675456,
+          "pitch": -0.17170779301482497,
+          "title": "Title",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.523399980713334,
+          "pitch": -0.1619629000022904,
+          "title": "Some nice photos",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.0939150168485625,
+          "pitch": -0.7720832530606252,
+          "title": "Nice photo of this?",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "12-13-",
@@ -582,7 +786,20 @@ var APP_DATA = {
           "target": "30-31--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 1.0566853883204388,
+          "pitch": -0.4041920363002518,
+          "title": "Title",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.2697947589722283,
+          "pitch": -0.24750722625080002,
+          "title": "Nice photo of that",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "13-14-",
@@ -632,7 +849,14 @@ var APP_DATA = {
           "target": "12-13-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.6222822270805786,
+          "pitch": -0.1332827173418636,
+          "title": "Title",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "14-15-",
@@ -670,7 +894,14 @@ var APP_DATA = {
           "target": "15-16-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.355890788864766,
+          "pitch": -0.27569234357473427,
+          "title": "Title",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "15-16-",
@@ -714,7 +945,14 @@ var APP_DATA = {
           "target": "24-25-3-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.189229512965218,
+          "pitch": -0.6394150293849066,
+          "title": "Hristo Botev&nbsp;",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "16-17--",
@@ -758,7 +996,20 @@ var APP_DATA = {
           "target": "24-25-3-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.7770272585523212,
+          "pitch": 0.08496500944278651,
+          "title": "Botev",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.9637370199645332,
+          "pitch": 0.053281875325993155,
+          "title": "Batemberg sqr",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "17-18---",
@@ -852,7 +1103,32 @@ var APP_DATA = {
           "target": "25-26-4-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.051193074441949,
+          "pitch": -0.6348568722374122,
+          "title": "Ecomuseum with Aquarium",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.5712761744160328,
+          "pitch": -0.6570610454246228,
+          "title": "Regional Museum of Ruse - Headquaters",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.9544484626874077,
+          "pitch": -0.13022404290237688,
+          "title": "Snimka na mamut",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.6524837564241004,
+          "pitch": -0.2819415549652593,
+          "title": "Charlino",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "19-20---",
@@ -902,7 +1178,38 @@ var APP_DATA = {
           "target": "16-17--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.279556870416526,
+          "pitch": -0.6505821681575803,
+          "title": "Regional Museum of Ruse",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.1417216634527225,
+          "pitch": -0.4030201368199471,
+          "title": "Regional Museum of Ruse - Headquarters",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.40614618349893306,
+          "pitch": -0.26209813834966056,
+          "title": "Ecomuseum with Aquarium",
+          "text": "Text"
+        },
+        {
+          "yaw": 3.141376543094914,
+          "pitch": -0.3189778227052926,
+          "title": "Old central post office",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.8985407011682458,
+          "pitch": -0.19141798156967482,
+          "title": "Hristo Botev&nbsp;",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "20-21-",
@@ -934,8 +1241,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.046905664367406175,
-          "pitch": -0.012482423604973647,
+          "yaw": 0.0520160240095322,
+          "pitch": 0.0352378935139086,
           "rotation": 0,
           "target": "21-22--"
         },
@@ -964,7 +1271,32 @@ var APP_DATA = {
           "target": "22-23-1"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.21736307095979,
+          "pitch": -0.5709125916040154,
+          "title": "Regional Museum of Ruse",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.0063687972615227295,
+          "pitch": -0.36157856058433424,
+          "title": "Old central post office",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.5571614902009916,
+          "pitch": -0.15747868234135254,
+          "title": "Regional musuem of ruse with aquarium",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.953873097774503,
+          "pitch": -0.12463800220465693,
+          "title": "Ecomuseum with aquarium",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "21-22--",
@@ -1008,7 +1340,32 @@ var APP_DATA = {
           "target": "20-21-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.7587713012658055,
+          "pitch": -0.37454325647832754,
+          "title": "The old&nbsp; central post office",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.2059790702307076,
+          "pitch": -0.25739984478705935,
+          "title": "Ecomuseum with Aquarium",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.7220304087878375,
+          "pitch": -0.6304003485569929,
+          "title": "Regional museum of Ruse",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.884611550295709,
+          "pitch": -0.2991008083199489,
+          "title": "Luben Karavelov Regional Library",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "22-23-1",
@@ -1070,7 +1427,44 @@ var APP_DATA = {
           "target": "19-20---"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 3.0283024331084754,
+          "pitch": 0.0919722491813566,
+          "title": "what is dat",
+          "text": "&lt;iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/IJLrIJzgsFo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;<br>"
+        },
+        {
+          "yaw": 1.07139587582496,
+          "pitch": -0.4253980030449078,
+          "title": "Regional Museum of Ruse",
+          "text": "Text"
+        },
+        {
+          "yaw": -0.4024382250893872,
+          "pitch": -0.33493837416477135,
+          "title": "Old central post office",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.824705707531229,
+          "pitch": -0.11275005825415896,
+          "title": "Ecomuseum with Aquarium",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.6093244414138494,
+          "pitch": -0.13307310787817883,
+          "title": "Regional museum of Ruse - Headquarters",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.661873509727603,
+          "pitch": -0.219062728681223,
+          "title": "Hristo Botev",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "23-24-2-",
@@ -1120,7 +1514,26 @@ var APP_DATA = {
           "target": "26-27-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.338845865133173,
+          "pitch": -0.23430699493255958,
+          "title": "Hristo Botev - duplicate",
+          "text": "Text"
+        },
+        {
+          "yaw": -3.131236006452781,
+          "pitch": -0.023429222042226527,
+          "title": "Fountain - dupl",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.558678076089069,
+          "pitch": -0.26136492050267,
+          "title": "Regional Museum of Ruse - dupl",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "24-25-3-",
@@ -1176,7 +1589,14 @@ var APP_DATA = {
           "target": "26-27-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "title": "Fointain",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "25-26-4-",
@@ -1232,7 +1652,20 @@ var APP_DATA = {
           "target": "24-25-3-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.025798221134566646,
+          "pitch": 0.0549557759505408,
+          "title": "3d object if we are able to scan it",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.04304746419404459,
+          "pitch": -0.01524495550386007,
+          "title": "Fountain",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "26-27-",
@@ -1288,7 +1721,20 @@ var APP_DATA = {
           "target": "28-29--"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.989505286239405,
+          "pitch": 0.47512148509445495,
+          "title": "Batemberg Square",
+          "text": "Text"
+        },
+        {
+          "yaw": -2.9611384930752305,
+          "pitch": -0.4583940912317619,
+          "title": "Duplicate - monument",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "27-28-",
@@ -1338,7 +1784,14 @@ var APP_DATA = {
           "target": "26-27-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.10365367531961489,
+          "pitch": -0.22229627637205596,
+          "title": "Monument",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "28-29--",
@@ -1376,13 +1829,20 @@ var APP_DATA = {
           "target": "29-30-"
         },
         {
-          "yaw": 2.0004386729032575,
-          "pitch": 0.0856254530941456,
+          "yaw": 2.0820524232346562,
+          "pitch": 0.20730115825919526,
           "rotation": 0,
           "target": "27-28-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.08632363386974795,
+          "pitch": -0.4944854037846529,
+          "title": "Regional library \"Luben Karavelov\"",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "29-30-",
@@ -1482,7 +1942,14 @@ var APP_DATA = {
           "target": "29-30-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.9837908920211405,
+          "pitch": -0.16742463192165147,
+          "title": "Park - Batemberg sqr",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "31-32--",
@@ -1585,7 +2052,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "RuseWalk",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
