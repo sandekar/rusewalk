@@ -1,0 +1,23 @@
+{
+  "name": "rusewalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandekar/rusewalk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandekar/rusewalk/issues"
+  },
+  "homepage": "https://github.com/sandekar/rusewalk#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
