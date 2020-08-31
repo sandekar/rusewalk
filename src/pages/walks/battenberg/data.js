@@ -1,4 +1,7 @@
-var APP_DATA = {
+
+// TODO: can be moved in the static -> axios.get
+
+export const APP_DATA = {
   "scenes": [
     {
       "id": "0-1-",
