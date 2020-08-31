@@ -2,7 +2,7 @@ import React from "react";
 
 import "./IvanovoRockMonasteryWalkPage.scss";
 
-const URL = "https://my.matterport.com/show/?m=hRuiH3pebbz&fbclid=IwAR0s8u1uMpDqGN-qiCfLdT-d3Xql9Wa-H4kwSqEKAU9D7s7Ye4BKn1nIXR4";
+const URL = "https://my.matterport.com/show/?m=hRuiH3pebbz";
 
 export default class IvanovoRockMonasteryWalkPage extends React.Component {
     render() {
