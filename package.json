@@ -20,7 +20,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "start": "concurrently \"react-scripts start\" \"npm run server\"",
+    "start": "cross-env PORT=8080 node server.js",
+    "start:dev": "concurrently \"react-scripts start\" \"npm run server\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
