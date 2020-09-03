@@ -8,7 +8,7 @@ export default class HistoryMuseumWalkPage extends React.Component {
     render() {
         return (
             <div className="HistoryMuseumWalkPage">
-                <iframe src={URL} className="HistoryMuseumWalkFrame"/>
+                <iframe title="HistoryMuseumWalkFrame" src={URL} className="HistoryMuseumWalkFrame"/>
             </div>
         );
     }

@@ -8,7 +8,7 @@ export default class IvanovoRockMonasteryWalkPage extends React.Component {
     render() {
         return (
             <div className="IvanovoRockMonasteryWalkPage">
-                <iframe src={URL} className="IvanovoRockMonasteryWalkFrame"/>
+                <iframe title="IvanovoRockMonasteryWalkFrame" src={URL} className="IvanovoRockMonasteryWalkFrame"/>
             </div>
         );
     }
