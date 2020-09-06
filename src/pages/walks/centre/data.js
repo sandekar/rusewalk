@@ -33,19 +33,22 @@ export const APP_DATA = {
                     "yaw": 2.3414767871956457,
                     "pitch": 0.12403927127497383,
                     "rotation": 0,
-                    "target": "10-dohodno"
+                    "target": "10-dohodno",
+                    "targetYaw": -1.4164490488404908
                 },
                 {
                     "yaw": 1.0961839969803933,
                     "pitch": 0.17952966104826018,
                     "rotation": 0,
-                    "target": "1-monument-of-liberty"
+                    "target": "1-monument-of-liberty",
+                    "targetYaw": 1.5750179392323735
                 },
                 {
                     "yaw": 1.9115458764682298,
                     "pitch": 0.11613047994208259,
                     "rotation": 5.497787143782138,
-                    "target": "11-small-fountain"
+                    "target": "11-small-fountain",
+                    "targetYaw": 0.008349050523419166
                 }
             ],
             "infoHotspots": [
@@ -108,19 +111,22 @@ export const APP_DATA = {
                     "yaw": -1.5179759324432016,
                     "pitch": 0.15379386849575916,
                     "rotation": 0,
-                    "target": "0-happy"
+                    "target": "0-happy",
+                    "targetYaw": 2.333212600769789
                 },
                 {
                     "yaw": 1.6677526783247423,
                     "pitch": 0.13527037117509977,
                     "rotation": 0,
-                    "target": "2-courthouse"
+                    "target": "2-courthouse",
+                    "targetYaw": -1.5920849731810929
                 },
                 {
                     "yaw": -3.0600706548645427,
                     "pitch": 0.20427980151092484,
                     "rotation": 0,
-                    "target": "13-monument-of-liberty-up-close"
+                    "target": "13-monument-of-liberty-up-close",
+                    "targetYaw": -0.051811065691463654
                 }
             ],
             "infoHotspots": [
@@ -165,13 +171,15 @@ export const APP_DATA = {
                     "yaw": 1.5856698806032634,
                     "pitch": 0.188579026983291,
                     "rotation": 0,
-                    "target": "1-monument-of-liberty"
+                    "target": "1-monument-of-liberty",
+                    "targetYaw": -1.5866475972601677
                 },
                 {
                     "yaw": -1.4232304505310402,
                     "pitch": 0.17272664239176194,
                     "rotation": 0,
-                    "target": "3-clock-tower"
+                    "target": "3-clock-tower",
+                    "targetYaw": 0.31919265432508404
                 }
             ],
             "infoHotspots": [
@@ -222,13 +230,15 @@ export const APP_DATA = {
                     "yaw": -2.323486041085145,
                     "pitch": 0.2787907480165277,
                     "rotation": 0,
-                    "target": "2-courthouse"
+                    "target": "2-courthouse",
+                    "targetYaw": 1.6583326326162187
                 },
                 {
                     "yaw": 1.94233975008608,
                     "pitch": 0.23105357754553602,
                     "rotation": 0.7853981633974483,
-                    "target": "4-dunav-plaza"
+                    "target": "4-dunav-plaza",
+                    "targetYaw": 2.8054536265768046
                 }
             ],
             "infoHotspots": [
@@ -273,13 +283,15 @@ export const APP_DATA = {
                     "yaw": -0.0995954828283665,
                     "pitch": 0.22167293533009946,
                     "rotation": 0,
-                    "target": "3-clock-tower"
+                    "target": "3-clock-tower",
+                    "targetYaw": -0.5122693065921062
                 },
                 {
                     "yaw": -3.0413212513310874,
                     "pitch": 0.18380608548946142,
                     "rotation": 0,
-                    "target": "5-dsk-bank"
+                    "target": "5-dsk-bank",
+                    "targetYaw": 2.5162144856035553
                 }
             ],
             "infoHotspots": [
@@ -324,19 +336,22 @@ export const APP_DATA = {
                     "yaw": -0.29515307801441715,
                     "pitch": 0.20998077059433307,
                     "rotation": 0,
-                    "target": "4-dunav-plaza"
+                    "target": "4-dunav-plaza",
+                    "targetYaw": -0.014610803604201195
                 },
                 {
                     "yaw": 2.715148517583936,
                     "pitch": 0.26369937677100985,
                     "rotation": 0,
-                    "target": "6-municipality-left"
+                    "target": "6-municipality-left",
+                    "targetYaw": -1.4872257906934276
                 },
                 {
                     "yaw": -1.603845273962003,
                     "pitch": 0.08271555201647374,
                     "rotation": 0.7853981633974483,
-                    "target": "12-municipality-fountain"
+                    "target": "12-municipality-fountain",
+                    "targetYaw": 0.06410728598672044
                 }
             ],
             "infoHotspots": []
@@ -374,19 +389,22 @@ export const APP_DATA = {
                     "yaw": 1.1532179046951345,
                     "pitch": 0.28187113596289315,
                     "rotation": 0,
-                    "target": "5-dsk-bank"
+                    "target": "5-dsk-bank",
+                    "targetYaw": -0.3185584885288453
                 },
                 {
                     "yaw": -3.090714098738241,
                     "pitch": 0.292113689652826,
                     "rotation": 0,
-                    "target": "7-opera-house"
+                    "target": "7-opera-house",
+                    "targetYaw": -0.07400867308937542
                 },
                 {
                     "yaw": -1.1837426492172778,
                     "pitch": 0.2481447758838513,
                     "rotation": 6.283185307179586,
-                    "target": "8-municipality"
+                    "target": "8-municipality",
+                    "targetYaw": 0.05974112752103444
                 }
             ],
             "infoHotspots": []
@@ -424,7 +442,8 @@ export const APP_DATA = {
                     "yaw": 3.0785920147585006,
                     "pitch": 0.2397805834322284,
                     "rotation": 0,
-                    "target": "6-municipality-left"
+                    "target": "6-municipality-left",
+                    "targetYaw": -0.7481643128778934
                 }
             ],
             "infoHotspots": [
@@ -475,19 +494,22 @@ export const APP_DATA = {
                     "yaw": -1.4778061175800552,
                     "pitch": 0.1582023278513276,
                     "rotation": 0,
-                    "target": "6-municipality-left"
+                    "target": "6-municipality-left",
+                    "targetYaw": 2.1745086969733727
                 },
                 {
                     "yaw": -3.052410474144617,
                     "pitch": 0.1444426178424525,
                     "rotation": 0,
-                    "target": "12-municipality-fountain"
+                    "target": "12-municipality-fountain",
+                    "targetYaw": 0.11973965589403868
                 },
                 {
                     "yaw": 2.058518049215577,
                     "pitch": 0.150387645100718,
                     "rotation": 0,
-                    "target": "9-municipality-right"
+                    "target": "9-municipality-right",
+                    "targetYaw": 1.2366384150195984
                 }
             ],
             "infoHotspots": [
@@ -532,19 +554,22 @@ export const APP_DATA = {
                     "yaw": -1.2916365653698527,
                     "pitch": 0.18831113310948844,
                     "rotation": 0,
-                    "target": "8-municipality"
+                    "target": "8-municipality",
+                    "targetYaw": 0.10338212647633682
                 },
                 {
                     "yaw": 1.864509593376976,
                     "pitch": 0.22421843176570633,
                     "rotation": 0,
-                    "target": "10-dohodno"
+                    "target": "10-dohodno",
+                    "targetYaw": 1.5564777378250794
                 },
                 {
                     "yaw": -3.1060957681409747,
                     "pitch": 0.16429512174298466,
                     "rotation": 0,
-                    "target": "12-municipality-fountain"
+                    "target": "12-municipality-fountain",
+                    "targetYaw": -2.0201253083883195
                 }
             ],
             "infoHotspots": []
@@ -574,7 +599,7 @@ export const APP_DATA = {
             "faceSize": 1344,
             "initialViewParameters": {
                 "yaw": 0.09934951126736458,
-                "pitch": -0.3620819513901061,
+                "pitch": 0.012693454004356397,
                 "fov": 1.4134061960355204
             },
             "linkHotspots": [
@@ -582,19 +607,22 @@ export const APP_DATA = {
                     "yaw": -1.6564057103001062,
                     "pitch": 0.23469913361222794,
                     "rotation": 0,
-                    "target": "9-municipality-right"
+                    "target": "9-municipality-right",
+                    "targetYaw": -1.2819535519486944
                 },
                 {
                     "yaw": 1.8261494196080026,
                     "pitch": 0.1682385695951112,
                     "rotation": 0,
-                    "target": "0-happy"
+                    "target": "0-happy",
+                    "targetYaw": 1.860787438215719
                 },
                 {
                     "yaw": 2.670349622141739,
                     "pitch": 0.32083267261931603,
                     "rotation": 0,
-                    "target": "11-small-fountain"
+                    "target": "11-small-fountain",
+                    "targetYaw": -0.7218583127365026
                 }
             ],
             "infoHotspots": [
@@ -639,19 +667,22 @@ export const APP_DATA = {
                     "yaw": -0.641108350486352,
                     "pitch": 0.2558965959241597,
                     "rotation": 12.566370614359176,
-                    "target": "13-monument-of-liberty-up-close"
+                    "target": "13-monument-of-liberty-up-close",
+                    "targetYaw": -1.4663185031219523
                 },
                 {
                     "yaw": 2.7826143166331434,
                     "pitch": 0.24615892197385136,
                     "rotation": 0.7853981633974483,
-                    "target": "0-happy"
+                    "target": "0-happy",
+                    "targetYaw": 1.860787438215719
                 },
                 {
                     "yaw": 1.9470950479443996,
                     "pitch": 0.32540634537655855,
                     "rotation": 0,
-                    "target": "10-dohodno"
+                    "target": "10-dohodno",
+                    "targetYaw": 0.009901387102656756
                 }
             ],
             "infoHotspots": []
@@ -689,31 +720,36 @@ export const APP_DATA = {
                     "yaw": -1.5871634407748818,
                     "pitch": 0.2477355321960495,
                     "rotation": 0,
-                    "target": "5-dsk-bank"
+                    "target": "5-dsk-bank",
+                    "targetYaw": 2.020709452526077
                 },
                 {
                     "yaw": 1.6819189945519,
                     "pitch": 0.28968692862008893,
                     "rotation": 0,
-                    "target": "9-municipality-right"
+                    "target": "9-municipality-right",
+                    "targetYaw": -0.5508730459745141
                 },
                 {
                     "yaw": 1.1775219031410522,
                     "pitch": 0.24524944726480236,
                     "rotation": 5.497787143782138,
-                    "target": "8-municipality"
+                    "target": "8-municipality",
+                    "targetYaw": 0.10338212647633682
                 },
                 {
                     "yaw": -1.1153658168370217,
                     "pitch": 0.2236200388509424,
                     "rotation": 0.7853981633974483,
-                    "target": "8-municipality"
+                    "target": "8-municipality",
+                    "targetYaw": 0.10338212647633682
                 },
                 {
                     "yaw": -2.8192834015083985,
                     "pitch": 0.396829422436463,
                     "rotation": 0,
-                    "target": "13-monument-of-liberty-up-close"
+                    "target": "13-monument-of-liberty-up-close",
+                    "targetYaw": -0.0040447733490101
                 }
             ],
             "infoHotspots": [
@@ -758,25 +794,29 @@ export const APP_DATA = {
                     "yaw": 1.5194743415790235,
                     "pitch": 0.1992951429529004,
                     "rotation": 0,
-                    "target": "11-small-fountain"
+                    "target": "11-small-fountain",
+                    "targetYaw": 2.1943536870753526
                 },
                 {
                     "yaw": 1.1473654561178908,
                     "pitch": 0.23351365634593968,
                     "rotation": 5.497787143782138,
-                    "target": "12-municipality-fountain"
+                    "target": "12-municipality-fountain",
+                    "targetYaw": 0.07174310146419138
                 },
                 {
                     "yaw": -1.16179155185538,
                     "pitch": 0.30694318441424606,
                     "rotation": 0.7853981633974483,
-                    "target": "12-municipality-fountain"
+                    "target": "12-municipality-fountain",
+                    "targetYaw": 0.07174310146419138
                 },
                 {
                     "yaw": -3.1057627004282367,
                     "pitch": 0.30544281401340534,
                     "rotation": 0,
-                    "target": "1-monument-of-liberty"
+                    "target": "1-monument-of-liberty",
+                    "targetYaw": 0.16180538249665943
                 }
             ],
             "infoHotspots": [

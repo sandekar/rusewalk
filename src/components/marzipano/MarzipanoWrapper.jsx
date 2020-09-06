@@ -29,6 +29,11 @@ export default class MarzipanoWrapper extends React.Component {
         const scenes = MarzoUtils.mapScenes(data, viewer, urlPrefix);
 
         MarzoUtils.switchScene(scenes[0]);
+
+        this.panoRef.current.addEventListener('dblclick', () => {
+            const viewParams = viewer.view() && viewer.view().parameters();
+            console.log(viewParams)
+        });
     }
 
     render() {

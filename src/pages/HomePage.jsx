@@ -4,9 +4,11 @@ import {Link} from "react-router-dom";
 
 import "./HomePage.scss";
 
-import first from './thumbs/0.jpg';
-import second from './thumbs/1.jpg';
-import third from './thumbs/2.jpg';
+import centre from './thumbs/centre.jpg';
+import battenberg from './thumbs/battenberg.jpg';
+import history from './thumbs/history.jpg';
+import sexaginta from './thumbs/sexaginta.jpg';
+import ivanovo from "./thumbs/ivanovo.jpg";
 
 export default class HomePage extends React.Component {
     render() {
@@ -23,7 +25,7 @@ export default class HomePage extends React.Component {
                     {/*Centre*/}
                     <Col xl={4} md={6} sm={12}>
                         <Card bg="dark" className="HomePageWalkCard">
-                            <Card.Img variant="top" src={first}/>
+                            <Card.Img variant="top" src={centre}/>
                             <Card.Body>
                                 <Card.Title>Ruse centre</Card.Title>
                                 <Card.Text>
@@ -40,7 +42,7 @@ export default class HomePage extends React.Component {
                     {/*Battenberg*/}
                     <Col xl={4} md={6} sm={12}>
                         <Card bg="dark" className="HomePageWalkCard">
-                            <Card.Img variant="top" src={second}/>
+                            <Card.Img variant="top" src={battenberg}/>
                             <Card.Body>
                                 <Card.Title>Battenberg square</Card.Title>
                                 <Card.Text>
@@ -57,7 +59,7 @@ export default class HomePage extends React.Component {
                     {/*History*/}
                     <Col xl={4} md={6} sm={12}>
                         <Card bg="dark" className="HomePageWalkCard">
-                            <Card.Img variant="top" src={third}/>
+                            <Card.Img variant="top" src={history}/>
                             <Card.Body>
                                 <Card.Title>History museum</Card.Title>
                                 <Card.Text>
@@ -74,7 +76,7 @@ export default class HomePage extends React.Component {
                     {/*Sexaginta*/}
                     <Col xl={4} md={6} sm={12}>
                         <Card bg="dark" className="HomePageWalkCard">
-                            <Card.Img variant="top" src={third}/>
+                            <Card.Img variant="top" src={sexaginta}/>
                             <Card.Body>
                                 <Card.Title>Sexaginta Prista</Card.Title>
                                 <Card.Text>
@@ -91,7 +93,7 @@ export default class HomePage extends React.Component {
                     {/*Ivanovo*/}
                     <Col xl={4} md={6} sm={12}>
                         <Card bg="dark" className="HomePageWalkCard">
-                            <Card.Img variant="top" src={third}/>
+                            <Card.Img variant="top" src={ivanovo}/>
                             <Card.Body>
                                 <Card.Title>Ivanovo rock monastery</Card.Title>
                                 <Card.Text>

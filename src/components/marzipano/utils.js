@@ -47,12 +47,12 @@ export function mapScenes(data, viewer, tilesPrefix) {
     return constructedScenes;
 }
 
-export function switchScene(scene) {
+export function switchScene(scene, targetYaw) {
     scene.view.setParameters(scene.data.initialViewParameters);
-    scene.scene.switchTo({}, () => {
-        // TODO remove
-        console.log('switched')
-    });
+    if (targetYaw) {
+        scene.view.setYaw(targetYaw);
+    }
+    scene.scene.switchTo({}, () => {});
 }
 
 function createLinkHotspotElement(hotspot, data, constructedScenes) {
@@ -78,7 +78,7 @@ function createLinkHotspotElement(hotspot, data, constructedScenes) {
 
     // Add click event handler.
     wrapper.addEventListener('click', function () {
-        switchScene(findSceneById(hotspot.target, constructedScenes));
+        switchScene(findSceneById(hotspot.target, constructedScenes), hotspot.targetYaw);
     });
 
     // Prevent touch and scroll events from reaching the parent element.

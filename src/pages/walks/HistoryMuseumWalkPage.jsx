@@ -2,7 +2,7 @@ import React from "react";
 
 import "./HistoryMuseumWalkPage.scss";
 
-const URL = "https://my.matterport.com/show/?m=7PhS2HB8xwq";
+const URL = "https://my.matterport.com/show/?m=EY8zb4RApTk";
 
 export default class HistoryMuseumWalkPage extends React.Component {
     render() {
