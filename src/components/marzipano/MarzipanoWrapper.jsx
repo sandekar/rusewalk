@@ -32,7 +32,7 @@ export default class MarzipanoWrapper extends React.Component {
 
         this.panoRef.current.addEventListener('dblclick', () => {
             const viewParams = viewer.view() && viewer.view().parameters();
-            console.log(viewParams)
+            console.log(viewParams.yaw)
         });
     }
 
