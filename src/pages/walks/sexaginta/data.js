@@ -92,28 +92,16 @@ export const APP_DATA = {
             ],
             "infoHotspots": [
                 {
-                    "yaw": -0.7935828831354854,
-                    "pitch": -0.002386332981366479,
-                    "title": "Title",
-                    "text": "Text"
-                },
-                {
-                    "yaw": -1.0131611896262633,
-                    "pitch": -0.13240372100904096,
-                    "title": "Title",
-                    "text": "Text"
-                },
-                {
-                    "yaw": -1.338230099459718,
-                    "pitch": 0.08024820608514993,
-                    "title": "Title",
-                    "text": "Text"
-                },
-                {
                     "yaw": -2.8688553132231007,
-                    "pitch": 0.3428290505880156,
-                    "title": "Title",
-                    "text": "Text"
+                    "pitch": -0.038186648178090365,
+                    "title": "Sexaginta Prista",
+                    "text": "The Roman castell and road station of Sexaginta Prista (in later times called - Rusagico / Rossi / Ruse) is located on a hill on the banks of the river Danube. The first known epigraphic sources that mention Sexaginta Prista date from the beginning of the 2nd century. The station was located at the end of the 19th century by Felix Kanitz because he noticed differences between the distances of fortifications marked in Roman route Maps. The first study of the archeological remains has been made in the early twentieth century from the Shkorpil brothers (the so-called \"fathers of Bulgarian archeology\"). Preservation of the open structures has been carried out in 1976-1978, and in 2002 the open-air exhibition Sexaginta Prista was opened for tourists."
+                },
+                {
+                    "yaw":-2.26079989885608,
+                    "pitch":0.14396396610117534,
+                    "title": "Tombstone",
+                    "text": "<img src=\"/api/static/sexaginta/img/tombstone.jpg\" >"
                 }
             ]
         },
@@ -272,16 +260,16 @@ export const APP_DATA = {
                     "rotation": 5.497787143782138,
                     "target": "5-6",
                     "targetYaw": 1.501043296359434
-                }
-            ],
-            "infoHotspots": [
+                },
                 {
                     "yaw": 1.4087757546358102,
                     "pitch": 0.42886137037759475,
-                    "title": "Title",
-                    "text": "Text"
+                    "rotation": 3.141592653589793,
+                    "target": "28-bunker-6",
+                    "targetYaw": -0.004292992537365592
                 }
-            ]
+            ],
+            "infoHotspots": []
         },
         {
             "id": "5-6",
@@ -327,14 +315,7 @@ export const APP_DATA = {
                     "targetYaw": 1.4796028733781839
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": -1.3071663913907425,
-                    "pitch": 0.15048996287136163,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "6-7",
@@ -426,14 +407,7 @@ export const APP_DATA = {
                     "targetYaw": -1.8072633557405897
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": 0.6281436937121718,
-                    "pitch": 0.38974743499430886,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "8-9",
@@ -479,7 +453,14 @@ export const APP_DATA = {
                     "targetYaw": 1.473549444889482
                 }
             ],
-            "infoHotspots": []
+            "infoHotspots": [
+                {
+                    "yaw":0.047883017147240636,
+                    "pitch":-0.24015233733959995,
+                    "title":"Thacian Tomb complex",
+                    "text":"Until now, it was assumed that on the territory of the castle, an unfortified Thracian settlement from the period from the third century BC was situated. However, recent studies show that the hill was a place where the Thracians performed rituals and cult practices unknown to us. Remains of this activity are the hundreds of pits, out of which about 50 have been studied so far. The Thracian pit complex is dated to the period from the 1st century BC. The place is an important spiritual center, and the city not far away (about 500 m) had significant commercial and political functions. From the pits, many ceramic vessels, bronze objects, coins, bones were excavated, including an unique zoomorphic vessel and several fibulae, which are usually found only in Western Europe."
+                }
+            ]
         },
         {
             "id": "9-10",
@@ -527,16 +508,16 @@ export const APP_DATA = {
             ],
             "infoHotspots": [
                 {
-                    "yaw": -1.5184748523485219,
-                    "pitch": 0.15504122438975187,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":-1.9601023945671816,
+                    "pitch":-0.1933665676186891,
+                    "title": "Chronology part 1",
+                    "text": "The next level is from the period II-III century. From this level, the preserved part of the temple of Apollo and the Thracian Horseman has been studied insofar.   <br /><br />The votive tablets of the Thracian horseman and Apollo were found in the exedra of the temple, laid in pits. The building ceased to function at the end of the 3rd century and one of the most important buildings in the Roman military camp, the Principle, was built on it. At that time (end of III-beginning of IV century) the late antique casstel was built, which remains were discovered in 1976-1978 - the north-western fortress wall and the tower. "
                 },
                 {
-                    "yaw": 0.20628286675810692,
-                    "pitch": 0.13981550046093716,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":-1.4572286699860069,
+                    "pitch":-0.21305891138723787,
+                    "title": "Chronology part 2",
+                    "text": "No structures have been found from the period of the First Bulgarian Kingdom, only pottery and coins. In the late Middle Ages (XVI-XVIII century) a Christian necropolis was located on the hill, from which a tomb was studied.  <br /><br />The hill was also attacked many times during the Russo-Turkish wars. At the end of the XIX century, the Military Club was built here and until the 90s of the XX century a military unit functioned. <br /><br />Research in 2005/2006 proved that the first Roman military camp (from the end of the 1st to the end of the 3rd century) was not located in this area. Its location has not yet been found, but it is probably at the mouth of the Rusenski Lom River. "
                 }
             ]
         },
@@ -630,14 +611,7 @@ export const APP_DATA = {
                     "targetYaw": 2.188306882786601
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": 0.0912744691476739,
-                    "pitch": -0.24277845522031782,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "12-13-tower",
@@ -690,14 +664,7 @@ export const APP_DATA = {
                     "targetYaw": -3.025419175253923
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": 1.967571460766961,
-                    "pitch": -0.5680515905841563,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "13-14-tower-first-level",
@@ -743,14 +710,7 @@ export const APP_DATA = {
                     "targetYaw": -0.1287180323345769
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": -0.7678659341457355,
-                    "pitch": -0.12071755522724104,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "14-15-tower-second-level",
@@ -881,14 +841,7 @@ export const APP_DATA = {
                     "targetYaw": 1.6133468801025312
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": -2.6048346161582607,
-                    "pitch": 0.1257173940407874,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "17-18",
@@ -1026,14 +979,7 @@ export const APP_DATA = {
                     "targetYaw": 0.020784436186112032
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": -0.6004137834606009,
-                    "pitch": -0.29715353237083164,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "20-21",
@@ -1122,14 +1068,26 @@ export const APP_DATA = {
                 {
                     "yaw": -1.7451854092698298,
                     "pitch": -0.1963484954379311,
-                    "title": "Title",
-                    "text": "Text"
+                    "title": "Inscription stone",
+                    "text": "This is the first inscription that mentions the city of Sexaginta Prista. It is curious to know that there is a spelling error in the very name itself (SEXSAGINTA instead of SEXAGINTA). The name of the fortress translates as Port of the 60 ships (A particular type of ship, called Pristis). After analyzing all available sources, it was found that the castle got its name in connection with events from the end of the first century, namely the Dacian Wars of Emperor Domitian (85-89). Then a Roman legion, consisting of approximately 6,000 men, was transferred across the Danube River, at the mouth of the Rusenski Lom River. Exactly 60 pristis-type ships would be needed for this type of operation. In honor of the victory over the Dacians, the castle received its new name and before its fortification, it probably bore the Thracian name of Rusenski Lom river. <br /><br /> <img src=\"/api/static/sexaginta/img/inscription-stone.jpeg\" >"
                 },
                 {
-                    "yaw": -2.4376275884347187,
-                    "pitch": -0.06795994433098684,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw": -2.535087747524651,
+                    "pitch": -0.0918976042532069,
+                    "title": "Wine",
+                    "text": "Volume: 19-26 L <br /><br />Weight: 12 – 17 KG <br /><br />Origin: Thassos island  <br /><br />The consumption of wine was an important part of roman culture. It had medical, social and religious significance and was used by everyone. Even the slaves received 5 L of wine each week. Roman wine was usually mixed with water to be ready for consumption. The citizens of Sexaginta Prista used local production as well as imported goods from other areas of the Roman Empire. "
+                },
+                {
+                    "yaw": -2.6310801395667394,
+                    "pitch": -0.1001027474901015,
+                    "title": "Garum",
+                    "text": "Volume: 14 – 18 L <br /><br />Weight: 10 – 15 KG <br /><br />Origin: Genoa <br /><br />Garum is salty fish sauce that Romans often used in their meals. It is made from fermented fish intestines in a solution of water and large quantities of salt. Anise, basil and dill were also added. It was diluted with water. "
+                },
+                {
+                    "yaw": -2.7107107866889866,
+                    "pitch": -0.08205143236894052,
+                    "title": "Olive oil",
+                    "text": "Volume: 30 – 42 L <br /><br />Weight: 19 – 24 KG <br /><br />Origin: Rhodes Island <br /><br />Olive oil was among the most important foods for the romans. It was produced along the shores of the Mediterranean Sea, where olives  were cultivated. Olive oil was also used for other purposes – lamps filled with olive oil delivered light during the night. Romans also widely used it in cosmetics.  "
                 }
             ]
         },
@@ -1179,40 +1137,16 @@ export const APP_DATA = {
             ],
             "infoHotspots": [
                 {
-                    "yaw": 0.21342212367958524,
-                    "pitch": -0.24955770371057895,
-                    "title": "Title",
-                    "text": "Text"
-                },
-                {
-                    "yaw": -0.3233923902712288,
-                    "pitch": -0.28608150208129146,
-                    "title": "Title",
-                    "text": "Text"
-                },
-                {
-                    "yaw": 0.19400311446883656,
-                    "pitch": 0.5341125411051664,
-                    "title": "Title",
-                    "text": "Text"
-                },
-                {
                     "yaw": -0.2716055106009634,
                     "pitch": 0.4450079466414145,
-                    "title": "Title",
-                    "text": "Text"
+                    "title": "Inscription tablet",
+                    "text": "<img src=\"/api/static/sexaginta/img/tablet1.jpeg\" >"
                 },
                 {
                     "yaw": -0.7610425396451248,
                     "pitch": 0.3832071833942621,
-                    "title": "Title",
-                    "text": "Text"
-                },
-                {
-                    "yaw": -0.7752460282259079,
-                    "pitch": -0.25357059679201654,
-                    "title": "Title",
-                    "text": "Text"
+                    "title": "Column",
+                    "text": "<img src=\"/api/static/sexaginta/img/column.jpg\" >"
                 }
             ]
         },
@@ -1306,14 +1240,7 @@ export const APP_DATA = {
                     "targetYaw": -2.707267716051943
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": 3.1252210102007023,
-                    "pitch": 0.009221621460707041,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "25-bunker-3",
@@ -1361,46 +1288,52 @@ export const APP_DATA = {
             ],
             "infoHotspots": [
                 {
-                    "yaw": -0.11866128201092607,
-                    "pitch": 0.29074891084140475,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":-0.13867642955091085,
+                    "pitch":0.33523334443345277,
+                    "title": "Gods",
+                    "text": "In Sexaginta Prista the most revered gods were Juno, Jupiter, Mars, the health divinities Asclepius, Hygea, Telesphorus, etc. Hercules was a very popular deity among the Roman Army ranks. Diana (Artemis) was highly respected among the local Thracian population. A sanctuary of this goddess has been found near the vicinity of Sexaginta Prista at today's village Koshov. "
                 },
                 {
-                    "yaw": 0.2448918931438211,
-                    "pitch": 0.07182648383811951,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":-0.47154496726245675,
+                    "pitch":-0.2509831927524644,
+                    "title": "Diana",
+                    "text": "<img src=\"/api/static/sexaginta/img/diana.jpg\" >"
                 },
                 {
-                    "yaw": -0.44591631056812275,
-                    "pitch": 0.06226569726840481,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":-0.13761596025980282,
+                    "pitch":-0.309831927524644,
+                    "title": "Gods",
+                    "text": "<img src=\"/api/static/sexaginta/img/gods.jpg\" >"
+                },
+                {
+                    "yaw":0.2392843114464771,
+                    "pitch":-0.2509831927524644,
+                    "title": "Hercules",
+                    "text": "<img src=\"/api/static/sexaginta/img/hercules.jpg\" >"
                 },
                 {
                     "yaw": 3.09319785749749,
                     "pitch": 0.36620330250693556,
-                    "title": "Title",
-                    "text": "Text"
+                    "title": "Thracian Horseman Heros",
+                    "text": "The most popular deity in I – III century A.D. in Sexaginta Prista was the Thracian Horseman Heros. More than 3000 votive tablets with his image had been found in Bulgaria. The figures on the tablets are with rich symbolism, expressing the basic religious beliefs of the Thracians. "
                 },
                 {
-                    "yaw": -2.8895959743825586,
-                    "pitch": 0.1622631721725014,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":2.758794419558777,
+                    "pitch":-0.1270018599139604,
+                    "title": "Horse",
+                    "text": "<img src=\"/api/static/sexaginta/img/horse3.jpg\" >"
                 },
                 {
-                    "yaw": 2.792319789612379,
-                    "pitch": 0.15990293857039006,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":3.055560130360245,
+                    "pitch":-0.21068343919756316,
+                    "title": "Horse",
+                    "text": "<img src=\"/api/static/sexaginta/img/horse1.jpg\" >"
                 },
                 {
-                    "yaw": -1.229368744924919,
-                    "pitch": 0.19830519468332142,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":-2.928725889352272,
+                    "pitch":-0.14505004023976653,
+                    "title": "Horse",
+                    "text": "<img src=\"/api/static/sexaginta/img/horse2.jpg\" >"
                 }
             ]
         },
@@ -1455,14 +1388,7 @@ export const APP_DATA = {
                     "targetYaw": 3.1115945646295566
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": -0.8145833483916878,
-                    "pitch": 0.2333490278960042,
-                    "title": "Title",
-                    "text": "Text"
-                }
-            ]
+            "infoHotspots": [ ]
         },
         {
             "id": "27-bunker-5",
@@ -1505,26 +1431,26 @@ export const APP_DATA = {
                 {
                     "yaw": 2.1934704350698997,
                     "pitch": -0.0738237828925925,
-                    "title": "Title",
-                    "text": "Text"
+                    "title": "Altar",
+                    "text": "<img src=\"/api/static/sexaginta/img/altar.jpg\" >"
                 },
                 {
                     "yaw": 1.5996175529622976,
                     "pitch": 0.039295782670592416,
-                    "title": "Title",
-                    "text": "Text"
+                    "title": "Lion",
+                    "text": "<img src=\"/api/static/sexaginta/img/lion.jpg\" >"
                 },
                 {
-                    "yaw": -2.7378009295956005,
-                    "pitch": 0.35232396356521356,
-                    "title": "Title",
-                    "text": "Text"
+                    "yaw":2.1694068432624967,
+                    "pitch":-0.5055804452829449,
+                    "title": "Mithras",
+                    "text": "<img src=\"/api/static/sexaginta/img/mithras.jpg\" >"
                 },
                 {
                     "yaw": 1.2520035394738933,
                     "pitch": 0.22051426723456657,
-                    "title": "Title",
-                    "text": "Text"
+                    "title": "Information",
+                    "text": "Altars with decorative inscriptions, relief of Mithras and statues of Lions have been found in his temples – the Mithaeums. They were connected with the seven stages of dedication in Mithraism: Raven, Nymph, Warrior, Lion, Persian, Herald and Father. The seven stages correspond to the seven planets known planets in the Solar system then (Mercury, Venus, Mars, Jupiter, Saturn and the two luminaries – the Sun and the Moon). The strong faith in the influence of the planets on human destiny was a typical belief for Mithraism. <br /><br /> <a href=\"https://en.wikipedia.org/wiki/Mithraism#:~:text=Mithras%2Dworship%20in%20the%20Roman,always%20in%20the%20central%20niche\" target=\"_blank\">Read about Mithraism at Wikipedia</a>"
                 }
             ]
         },
@@ -1563,16 +1489,16 @@ export const APP_DATA = {
                     "rotation": 4.71238898038469,
                     "target": "26-bunker-4",
                     "targetYaw": 0.9680237329546113
-                }
-            ],
-            "infoHotspots": [
+                },
                 {
                     "yaw": 3.125213818264867,
                     "pitch": 0.07307485549222292,
-                    "title": "Title",
-                    "text": "Text"
+                    "rotation": 1.57,
+                    "target": "4-5",
+                    "targetYaw": -2.380628436439979
                 }
-            ]
+            ],
+            "infoHotspots": []
         }
     ],
     "name": "Sexaginta Prista",

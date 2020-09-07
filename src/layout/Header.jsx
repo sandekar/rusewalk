@@ -27,8 +27,8 @@ export default class Header extends React.Component {
                     <NavDropdown.Item href="/walk/ruse-centre">
                         Ruse centre
                     </NavDropdown.Item>
-                    <NavDropdown.Item href="/walk/battenberg-square">
-                        Battenberg square
+                    <NavDropdown.Item href="/walk/old-centre">
+                        Old centre
                     </NavDropdown.Item>
                     <NavDropdown.Item href="/walk/history-museum">
                         History museum

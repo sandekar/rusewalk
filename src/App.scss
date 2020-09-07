@@ -5,3 +5,10 @@ body {
     background-color: #212529;
     color: white
 }
+
+.mernik {
+    position: fixed;
+    top: calc(50vh);
+    left: calc(50vw);
+    z-index: 9999;
+}

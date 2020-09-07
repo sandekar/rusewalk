@@ -20,7 +20,7 @@ function App() {
                     <Switch>
                         <Route exact path="/" component={HomePage}/>
                         <Route exact path="/walk/ruse-centre" component={CentreWalkPage}/>
-                        <Route exact path="/walk/battenberg-square" component={BattenbergWalkPage}/>
+                        <Route exact path="/walk/old-centre" component={BattenbergWalkPage}/>
                         <Route exact path="/walk/history-museum" component={HistoryMuseumWalkPage}/>
                         <Route exact path="/walk/sexaginta-prista" component={SexagintaPristaWalkPage}/>
                         <Route exact path="/walk/ivanovo-rock-monastery" component={IvanovoRockMonasteryWalkPage}/>

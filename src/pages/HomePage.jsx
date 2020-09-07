@@ -44,13 +44,13 @@ export default class HomePage extends React.Component {
                         <Card bg="dark" className="HomePageWalkCard">
                             <Card.Img variant="top" src={battenberg}/>
                             <Card.Body>
-                                <Card.Title>Battenberg square</Card.Title>
+                                <Card.Title>Old centre</Card.Title>
                                 <Card.Text>
                                     Some quick example text to build on the card title and make up
                                     the bulk of
                                     the card's content.
                                 </Card.Text>
-                                <Link to="/walk/battenberg-square">
+                                <Link to="/walk/old-centre">
                                     <Button variant="primary">Explore</Button>
                                 </Link>
                             </Card.Body>
