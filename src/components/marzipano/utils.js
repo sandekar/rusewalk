@@ -92,7 +92,8 @@ function createLinkHotspotElement(hotspot, data, constructedScenes) {
     tooltip.innerHTML = findSceneDataById(hotspot.target, data).name;
 
     wrapper.appendChild(icon);
-    wrapper.appendChild(tooltip);
+    // Disable tooltips
+    // wrapper.appendChild(tooltip);
 
     return wrapper;
 }
@@ -153,7 +154,8 @@ function createInfoHotspotElement(hotspot) {
     modal.innerHTML = wrapper.innerHTML;
     modal.classList.add('info-hotspot-modal');
 
-    const modalsHolder = document.querySelector('.MarzipanoWrapperModals');
+    // .MarzipanoWrapperModals
+    const modalsHolder = document.querySelector('.modals-wrapper');
     modalsHolder.appendChild(modal);
 
     const toggle = function () {

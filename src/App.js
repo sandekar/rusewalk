@@ -10,7 +10,7 @@ import HistoryMuseumWalkPage from "./pages/walks/HistoryMuseumWalkPage";
 import SexagintaPristaWalkPage from "./pages/walks/SexagintaPristaWalkPage";
 import IvanovoRockMonasteryWalkPage from "./pages/walks/IvanovoRockMonasteryWalkPage";
 
-import './App.css';
+import './App.scss';
 
 function App() {
     return (

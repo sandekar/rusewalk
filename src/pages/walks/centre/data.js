@@ -55,26 +55,14 @@ export const APP_DATA = {
                 {
                     "yaw": -2.537618890079992,
                     "pitch": -0.35943129468531154,
-                    "title": "bonjour pic",
-                    "text": "bonjour pic body"
-                },
-                {
-                    "yaw": -1.1876805477810013,
-                    "pitch": -0.4772699723199896,
-                    "title": "New post title",
-                    "text": "new post body"
+                    "title": "\"Teteven\" Hotel",
+                    "text": "Initially called Hotel \"Boulevard\", this edifice was built by the wealthy Ruse citizen of French origin Andre Turio in 1897, and designed by the Italian architect Nino Rosetti. The building was sold by his heirs. <br /><br />In 1914 Bratan Revenski, born in Teteven, came to Ruse and started working as a confectioner. Later he bought the building of the former hotel \"Boulevard\", renamed it the Grand Hotel \"Teteven\", and on the ground floor he opened the famous confectionery \"Teteven\" in a typical Viennese style. The confectionery worked for almost 80 years until the early 1990s. <br /><br /> <img src=\"/api/static/centre/img/teteven.jpg\" > <br /><br /> <img src=\"/api/static/centre/img/teteven2.jpg\" >"
                 },
                 {
                     "yaw": -2.403506579447697,
                     "pitch": 0.02448766640848632,
                     "title": "batennberg link",
                     "text": "battenberg link"
-                },
-                {
-                    "yaw": -1.9250707853186881,
-                    "pitch": -0.5488166169960369,
-                    "title": "humana title",
-                    "text": "humana body"
                 }
             ]
         },
@@ -129,14 +117,7 @@ export const APP_DATA = {
                     "targetYaw": -0.051811065691463654
                 }
             ],
-            "infoHotspots": [
-                {
-                    "yaw": 0.1512825485357272,
-                    "pitch": -0.028031249087737464,
-                    "title": "kosta title",
-                    "text": "kosta body"
-                }
-            ]
+            "infoHotspots": []
         },
         {
             "id": "2-courthouse",
@@ -186,14 +167,14 @@ export const APP_DATA = {
                 {
                     "yaw": -3.0819192963932363,
                     "pitch": -0.7630846228908705,
-                    "title": "court title",
-                    "text": "court body"
+                    "title": "Courthouse",
+                    "text": "The building was erected on the site of the former Fish market. Later, the Ruse circus used to be there.  <br /><br /> The courthouse in Ruse was designed as the first courthouse building in Bulgaria. The original project was prepared by arch. Nikola Lazarov, and later edited by a team at the Ministry of Justice headed by arch. P. Koychev. Because the house of the Minister of Justice was located on the same site, the construction was delayed. This is how and why the first courthouse in Bulgaria that was finished came to be the one in Sofia.  <br /><br /> The construction of the Ruse courthouse began in 1929 and ended in 1939. Its opening was celebrated on January 28, 1940. The interior of the building was designed entirely by arch. Papazov, and the stained glass - by Prof. Ivan Penkov. The interior is rich with its marble columns and a granite floor,  beautiful curved two-armed staircase and colorful ornamental windows.  <br /><br /> The sculptural figures on the facade of the building were designed and executed by Prof. Lyubomir Dalchev in 1938.  <br /><br /> During the Socialist regime, the building served as District and City Council.  <br /><br />"
                 },
                 {
                     "yaw": 0.15743614815088947,
                     "pitch": 0.004074374436573436,
-                    "title": "round shadravan title",
-                    "text": "round shadravan body"
+                    "title": "The fountain in front of the Courthouse",
+                    "text": "Before the fountain in front of the Courthouse, the emblematic \"Glass Booth\" was in this spot. It sold tickets for town buses, newspapers, snacks and cigarettes. The Glass Booth still lives in the memories of people, because it was a favorite meeting place. <br /><br /> <img src=\"/api/static/centre/img/glass-booth.jpg\" >"
                 }
             ]
         },
@@ -245,8 +226,14 @@ export const APP_DATA = {
                 {
                     "yaw": 0.09805894576115648,
                     "pitch": -0.48524311676422904,
-                    "title": "clock title",
-                    "text": "clock body"
+                    "title": "The Clock, former headquarters of Girdap Bank",
+                    "text": "To the right of the Court House is the building of the former Girdap Bank. Girdap Shareholding Saving Company, was the first private bank in Bulgaria, established in 1881. <br /><br /> Girdap's central office in Ruse was located in a historic edifice at 2 Aleksandrovska Street that takes up 260 square metres (2,800 sq ft). It was finished in 1896 and designed by Samuil Danailov who at the time was still an architecture student. The building's attic was damaged in a fire in 1913. An additional storey was constructed in 1935 under the engineer Todor Tonev, turning the headquarters into a three-storey edifice. The trademark clock was added in the late 19th century. In 1964–1967, the building's interior was refurbished so it could accommodate the City People's Council.  <br /><br /> Nowadays, \"The Clock\" is the most famous and preferred meeting point in Ruse. <br /><br />  <img src=\"/api/static/centre/img/clocktower.jpg\" >"
+                },
+                {
+                    "yaw": 0.6224361362080213,
+                    "pitch": -0.5074063789436473,
+                    "title": "The House of Kosta Tomov",
+                    "text": "The merchant Kosta Tomov bought the plot from the famous lawyer, banker and politician Georgi Gubidelnikov. The architect, Edward Winter, made the project according to the strict requirements of the Municipality of Ruse, so that the building may fit into the architectural ensemble in European style. The house was decorated with objects and ornaments from Vienna, Bucharest, etc. "
                 }
             ]
         },
@@ -298,8 +285,8 @@ export const APP_DATA = {
                 {
                     "yaw": 1.949305177003616,
                     "pitch": 0.04525959978633054,
-                    "title": "dunav title",
-                    "text": "dunav body"
+                    "title": "Danube hotel",
+                    "text": "Danube hotel was opened in 1961 and was designed by Pencho Bonev. Before the construction of the hotel, here was situated the house of Vasil Martinov and the store of Markovi Brothers."
                 }
             ]
         },
@@ -450,8 +437,8 @@ export const APP_DATA = {
                 {
                     "yaw": -0.060374372167208534,
                     "pitch": -0.44627857408826443,
-                    "title": "Opera title",
-                    "text": "Opera body"
+                    "title": "Opera",
+                    "text": "The opera house was built with church funds in 1934 for a church hall at the cathedral church “St. Trinity ” and was designed by arch. Hristo Hristov. It was a place of cultural significance, where musical evenings, talks and creative meetings took place. During the communist period, many priests were arrested and the Church's social and educational activities were banned. Many of its properties were confiscated. In 1950 the Church hall was nationalized and rebuilt for the functions of the Opera house. Today, only a fence separates the Opera house and the oldest church in Ruse – \"St. Trinity\".  The premiere of the first performance of the newly established Ruse Opera was La Traviata by Verdi on 27.11.1979 under the direction of maestro Konstantin Iliev.  "
                 },
                 {
                     "yaw": -0.17580307885085134,
@@ -516,8 +503,8 @@ export const APP_DATA = {
                 {
                     "yaw": -0.18419956430457063,
                     "pitch": 0.0594047488404037,
-                    "title": "Mun title",
-                    "text": "Mun body"
+                    "title": "The Building of the Municipality",
+                    "text": "The building of the Municipality of Rousse was completed in 1985 (during the Socialism) for a Party house and it is a typical for the architecture for that time period. People from Ruse often call it \"The Ship\" because of its shape."
                 }
             ]
         },
@@ -629,8 +616,8 @@ export const APP_DATA = {
                 {
                     "yaw": -0.11880417599505222,
                     "pitch": -0.018287323215778528,
-                    "title": "Dohodno title",
-                    "text": "Dohodno body"
+                    "title": "Dohodno Zdanie",
+                    "text": "Dohodno Zdanie (literally Profitable Building) is an edifice in Neoclassical style located on Freedom Square.  It was built in 1898–1902 to accommodate the local theatre performances. The name originates from the construction's purpose: to provide the school board of trustees with funds by means of the theatre hall, library, casino and shop rents. Today, Dohodno Zdanie is a cultural monument and one of the symbols of Rousse. <br /><br /> An authoritative jury discussed 15 projects that participated in a contest for the construction of the building, and chose the Voilà une idée project by <a href=\"https://en.wikipedia.org/wiki/Austria\" target=\"_blank\">Austrian</a> architect <a href=\"https://en.wikipedia.org/wiki/Peter_Paul_Brang\" target=\"_blank\">Peter Paul Brang</a>. <br /><br /> The construction of the building met severe financial problems due to the increase of the initial costs of 350,000 <a href=\"https://en.wikipedia.org/wiki/Bulgarian_lev\" target=\"_blank\">leva</a>, the school board of trustees was forced to borrow an initial 200,000 and then a further 50,000 from the Stremlenie company, mortgaging its own property, and then conclude another loan agreement with <a href=\"https://en.wikipedia.org/wiki/Girdap\" target=\"_blank\">Girdap</a> Bank for 600,000 leva. The municipality mortgaged its cattle butchering receipts and the school board of trustees— its shops and Dohodno Zdanie itself. <br /><br /> The building was deemed finished in 1900, but the theatre hall was incomplete. The first theatre performance took place in the casino hall in 1901, until the scene and theatre hall were ultimately completed in 1902. <br /><br /> The scene was expanded in 1921, and an additional storey of it was built in 1924. It was considerably repaired in 1933–1934. The restoration of the entire building began in 1975 and lasted until 15 December 2006. <br /><br /> The most admirable part are the seven figures located on its roof - each of them bearing a certain symbolism (art, science, agriculture, crafts, trade, defense and the free spirit). The Central figure is the winged Mercury - the Roman god of trade and profit, symbolizing the goals and expectations for this building. <br/> <br/> <img src=\"http://www.ruseonline.info/smf/otoaeto/t93/?action=dlattach;attach=4311;image\" >"
                 }
             ]
         },
@@ -823,13 +810,13 @@ export const APP_DATA = {
                 {
                     "yaw": 0.14650947353888633,
                     "pitch": -0.6002683333781906,
-                    "title": "Statue title",
-                    "text": "statue descr"
+                    "title": "Monument of freedom",
+                    "text": "The Monument of Freedom was built in 1909 with donations of the local community after the initiative of the Association of Volunteers in the Liberation War. It was designed by the architect Simeon Zlatev and Stoycho Kyarizov. The statue and the bas-reliefs were made by the Italian sculptor Arnoldo Zocchi.  <br /><br /> The figure of the woman symbolizes free Bulgaria. There are two bronze lions at the base: one is ripping off the chains of slavery, and the other one keeps guard of the Sword and Shield of Freedom."
                 }
             ]
         }
     ],
-    "name": "Project Title",
+    "name": "Ruse centre",
     "settings": {
         "mouseViewMode": "drag",
         "autorotateEnabled": false,

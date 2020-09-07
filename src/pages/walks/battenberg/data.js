@@ -833,7 +833,7 @@ export const APP_DATA = {
                 {
                     "yaw": 2.6104899133784167,
                     "pitch": -0.484092486664764,
-                    "title": "Old CentralPost Office",
+                    "title": "Old Central Post Office",
                     "text": "The building was erected between 1929 and 1935 and served as a central telegraph and post office from 1935 until the construction of the new \"Central Post Office\" (on Svoboda sqr) in 1972. Now the building is privately owned and used for shops, cafes and office spaces."
                 }
             ]

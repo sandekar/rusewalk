@@ -15,6 +15,11 @@ export default class MarzipanoWrapper extends React.Component {
     }
 
     componentDidMount() {
+        // Holder for info modals (mobile device)
+        this.modalsWrapper = document.createElement('div');
+        this.modalsWrapper.classList.add('modals-wrapper');
+        document.querySelector('body').appendChild(this.modalsWrapper);
+
         WindowUtils.detectUserDevice();
 
         const data = this.props.data;
@@ -36,11 +41,15 @@ export default class MarzipanoWrapper extends React.Component {
         });
     }
 
+    componentWillUnmount() {
+        // Remove to avoid memory leak
+        this.modalsWrapper.remove();
+    }
+
     render() {
         return (
             <div className="MarzipanoWrapper">
                 <div className="MarzipanoWrapperInner" ref={this.panoRef}/>
-                <div className="MarzipanoWrapperModals" />
             </div>
         );
     }
