@@ -812,6 +812,12 @@ export const APP_DATA = {
                     "pitch": -0.6002683333781906,
                     "title": "Monument of freedom",
                     "text": "The Monument of Freedom was built in 1909 with donations of the local community after the initiative of the Association of Volunteers in the Liberation War. It was designed by the architect Simeon Zlatev and Stoycho Kyarizov. The statue and the bas-reliefs were made by the Italian sculptor Arnoldo Zocchi.  <br /><br /> The figure of the woman symbolizes free Bulgaria. There are two bronze lions at the base: one is ripping off the chains of slavery, and the other one keeps guard of the Sword and Shield of Freedom."
+                },
+                {
+                    "yaw": -2.069379916146616,
+                    "pitch": -0.0049843262708648695,
+                    "title": "\"The boy with the hydra\" fountain",
+                    "text": "TODO"
                 }
             ]
         }

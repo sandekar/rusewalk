@@ -954,7 +954,7 @@ export const APP_DATA = {
                     "yaw": -2.0733097113349963,
                     "pitch": 0.1738993183933104,
                     "title": "Fountain",
-                    "text": "The fountain was built in the 60s from the sculptor Lyubomir Dalchev. The composition consists of four naked bronze girls, drenched in water from the mouths of dragonflies – very bold solution for this time period."
+                    "text": "The fountain was built in the 60s from the sculptor Lyubomir Dalchev. The composition consists of four naked bronze girls, drenched in water from the mouths of dragonflies – very bold solution for this time period.<br/><br/><video width=\"320\" height=\"240\" controls>  <source src=\"/api/static/battenberg/media/battenberg.mp4\" type=\"video/mp4\">  Your browser does not support the video tag.</video>"
                 }
             ]
         },
@@ -1280,7 +1280,19 @@ export const APP_DATA = {
                     "pitch": 0.33169231227543605,
                     "title": "Monument",
                     "text": "A monument to the officers and lower ranks of the 5th Danube Infantry Regiment killed in the Serbo-Bulgarian War has been erected on Battenberg Square. This is the most revered military monument in the region. The Serbo-Bulgarian war was a war between the Kingdom of Serbia and Principality of Bulgaria that erupted on 14 November [O.S. 2 November] 1885 and lasted until 28 November [O.S. 16 November] 1885. Serbia took the initiative in starting the war but was decisively defeated. Austria demanded Bulgaria stop its invasion, and a truce resulted. Final peace was signed on 3 March [O.S. 19 February] 1886 in Bucharest. The old boundaries were not changed. As a result of the war, European powers acknowledged the act of Unification of Bulgaria with Eastern Rumelia. "
-                }
+                },
+                {
+                    "yaw":-0.011631251136133613,
+                    "pitch":-0.5705900617361035,
+                    "title": "Monument",
+                    "text": "<img src=\"/api/static/battenberg/media/statue.jpg\" >"
+                },
+                 {
+                     "yaw": -0.111631251136133613,
+                     "pitch": -0.1705900617361035,
+                     "title": "Monument",
+                     "text": "<img src=\"/api/static/battenberg/media/statue-lower.jpg\" >"
+                 }
             ]
         },
         {

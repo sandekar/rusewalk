@@ -496,7 +496,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop .info-hotspot.visible .info-hotspot-title-wrapper,
 .desktop.no-touch .info-hotspot .info-hotspot-header:hover .info-hotspot-title-wrapper {
-  width: 220px;
+  width: 420px;
   padding: 0 5px;
   -webkit-transition: width 0s 0.4s,
   padding 0s 0.4s;
@@ -601,8 +601,9 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   -ms-user-select: text;
   user-select: text;
 
-  img {
-    max-width: 500px;
+  img, video {
+    // max-width: 500px;
+    width: 100%;
   }
 }
 
@@ -748,8 +749,9 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   -ms-user-select: text;
   user-select: text;
 
-  img {
-    max-width: 420px;
+  img, video {
+    //max-width: 420px;
+    width: 100%;
   }
 }
 

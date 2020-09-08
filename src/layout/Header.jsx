@@ -42,9 +42,7 @@ export default class Header extends React.Component {
                     </NavDropdown.Item>
 
                 </NavDropdown>
-
-                <Nav.Link href="/">Gallery</Nav.Link>
-                <Nav.Link href="/">About</Nav.Link>
+                <Nav.Link href="/about">About</Nav.Link>
             </Navbar>
         );
     }

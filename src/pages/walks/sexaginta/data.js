@@ -37,7 +37,20 @@ export const APP_DATA = {
                     "targetYaw": 3.091905754618738
                 }
             ],
-            "infoHotspots": []
+            "infoHotspots": [
+                {
+                    "yaw": -0.8734138382070817,
+                    "pitch": -0.06901299419286566,
+                    "title": "Shield",
+                    "text": "<img src=\"/api/static/sexaginta/img/shield.jpg\" >"
+                },
+                {
+                    "yaw": -1.101548746126218,
+                    "pitch": -0.05245441527462269,
+                    "title": "Old centre walk",
+                    "text": "TODO"
+                }
+            ]
         },
         {
             "id": "1-2",
@@ -565,7 +578,14 @@ export const APP_DATA = {
                     "targetYaw": 2.648664192804497
                 }
             ],
-            "infoHotspots": []
+            "infoHotspots": [
+                {
+                    "yaw": -0.47396788049804783,
+                    "pitch": -0.17798654301739077,
+                    "title": "Ship tablet",
+                    "text": "<img src=\"/api/static/sexaginta/img/ship-tablet.jpg\" >"
+                }
+            ]
         },
         {
             "id": "11-12-boat",
@@ -969,7 +989,7 @@ export const APP_DATA = {
                     "pitch": 0.4139687522182456,
                     "rotation": 0,
                     "target": "20-21",
-                    "targetYaw": 0.22437542288894896
+                    "targetYaw": -1.6432025512567048
                 },
                 {
                     "yaw": -1.5270819611825406,
@@ -1018,7 +1038,14 @@ export const APP_DATA = {
                     "targetYaw": -1.569494907940724
                 }
             ],
-            "infoHotspots": []
+            "infoHotspots": [
+                {
+                    "yaw": -2.0867679639923935,
+                    "pitch": -0.11774791186718048,
+                    "title": "Ship",
+                    "text": "<img src=\"/api/static/sexaginta/img/ship.jpeg\" >"
+                }
+            ]
         },
         {
             "id": "21-square-1",
