@@ -48,7 +48,7 @@ export const APP_DATA = {
                     "yaw": -1.101548746126218,
                     "pitch": -0.05245441527462269,
                     "title": "Old centre walk",
-                    "text": "TODO"
+                    "text": "Explore Ruse old centre walk <br /><br /> <a href=\"/walk/old-centre\"><img src=\"/api/static/battenberg/thumb.jpg\" ></a>"
                 }
             ]
         },

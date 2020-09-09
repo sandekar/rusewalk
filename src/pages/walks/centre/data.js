@@ -61,8 +61,8 @@ export const APP_DATA = {
                 {
                     "yaw": -2.403506579447697,
                     "pitch": 0.02448766640848632,
-                    "title": "batennberg link",
-                    "text": "battenberg link"
+                    "title": "Old centre walk",
+                    "text": "Explore Ruse old centre walk <br /><br /> <a href=\"/walk/old-centre\"><img src=\"/api/static/battenberg/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -117,7 +117,14 @@ export const APP_DATA = {
                     "targetYaw": -0.051811065691463654
                 }
             ],
-            "infoHotspots": []
+            "infoHotspots": [
+                {
+                    "yaw": -3.131798524524717,
+                    "pitch": -0.47656028544435927,
+                    "title": "Monument of liberty at night",
+                    "text": "<img src=\"/api/static/centre/img/monument-night.jpg\" >"
+                }
+            ]
         },
         {
             "id": "2-courthouse",
@@ -618,6 +625,31 @@ export const APP_DATA = {
                     "pitch": -0.018287323215778528,
                     "title": "Dohodno Zdanie",
                     "text": "Dohodno Zdanie (literally Profitable Building) is an edifice in Neoclassical style located on Freedom Square.  It was built in 1898–1902 to accommodate the local theatre performances. The name originates from the construction's purpose: to provide the school board of trustees with funds by means of the theatre hall, library, casino and shop rents. Today, Dohodno Zdanie is a cultural monument and one of the symbols of Rousse. <br /><br /> An authoritative jury discussed 15 projects that participated in a contest for the construction of the building, and chose the Voilà une idée project by <a href=\"https://en.wikipedia.org/wiki/Austria\" target=\"_blank\">Austrian</a> architect <a href=\"https://en.wikipedia.org/wiki/Peter_Paul_Brang\" target=\"_blank\">Peter Paul Brang</a>. <br /><br /> The construction of the building met severe financial problems due to the increase of the initial costs of 350,000 <a href=\"https://en.wikipedia.org/wiki/Bulgarian_lev\" target=\"_blank\">leva</a>, the school board of trustees was forced to borrow an initial 200,000 and then a further 50,000 from the Stremlenie company, mortgaging its own property, and then conclude another loan agreement with <a href=\"https://en.wikipedia.org/wiki/Girdap\" target=\"_blank\">Girdap</a> Bank for 600,000 leva. The municipality mortgaged its cattle butchering receipts and the school board of trustees— its shops and Dohodno Zdanie itself. <br /><br /> The building was deemed finished in 1900, but the theatre hall was incomplete. The first theatre performance took place in the casino hall in 1901, until the scene and theatre hall were ultimately completed in 1902. <br /><br /> The scene was expanded in 1921, and an additional storey of it was built in 1924. It was considerably repaired in 1933–1934. The restoration of the entire building began in 1975 and lasted until 15 December 2006. <br /><br /> The most admirable part are the seven figures located on its roof - each of them bearing a certain symbolism (art, science, agriculture, crafts, trade, defense and the free spirit). The Central figure is the winged Mercury - the Roman god of trade and profit, symbolizing the goals and expectations for this building. <br/> <br/> <img src=\"http://www.ruseonline.info/smf/otoaeto/t93/?action=dlattach;attach=4311;image\" >"
+                },
+                {
+                    "yaw":-0.9129432319985593,"pitch":-0.5651224922936606,
+                    "title": "1",
+                    "text": "<img src=\"/api/static/centre/img/dohodno-3.jpg\" > <br/> <br/> <img src=\"/api/static/centre/img/dohodno-4.jpg\" >"
+                },
+                {
+                    "yaw":-0.944577324690961,"pitch":-0.36603904833298806,
+                    "title": "2",
+                    "text": "<img src=\"/api/static/centre/img/dohodno-2.jpg\" >"
+                },
+                {
+                    "yaw":1.0178227902917243,"pitch":-0.6688209869470731,
+                    "title": "3",
+                    "text": "<img src=\"/api/static/centre/img/dohodno-5.jpg\" > <br/> <br/> <img src=\"/api/static/centre/img/dohodno-6.jpg\" >"
+                },
+                {
+                    "yaw":0.9894621861821165,"pitch":-0.4081212510261061,
+                    "title": "4",
+                    "text": "<img src=\"/api/static/centre/img/dohodno-7.jpg\" >"
+                },
+                {
+                    "yaw":0.04117727960366224,"pitch":-1.021522241114198,
+                    "title": "5",
+                    "text": "<img src=\"/api/static/centre/img/dohodno-1.jpg\" >"
                 }
             ]
         },
@@ -811,13 +843,13 @@ export const APP_DATA = {
                     "yaw": 0.14650947353888633,
                     "pitch": -0.6002683333781906,
                     "title": "Monument of freedom",
-                    "text": "The Monument of Freedom was built in 1909 with donations of the local community after the initiative of the Association of Volunteers in the Liberation War. It was designed by the architect Simeon Zlatev and Stoycho Kyarizov. The statue and the bas-reliefs were made by the Italian sculptor Arnoldo Zocchi.  <br /><br /> The figure of the woman symbolizes free Bulgaria. There are two bronze lions at the base: one is ripping off the chains of slavery, and the other one keeps guard of the Sword and Shield of Freedom."
+                    "text": "The Monument of Freedom was built in 1909 with donations of the local community after the initiative of the Association of Volunteers in the Liberation War. It was designed by the architect Simeon Zlatev and Stoycho Kyarizov. The statue and the bas-reliefs were made by the Italian sculptor Arnoldo Zocchi.  <br /><br /> The figure of the woman symbolizes free Bulgaria. There are two bronze lions at the base: one is ripping off the chains of slavery, and the other one keeps guard of the Sword and Shield of Freedom. <br/><br/> <img src=\"/api/static/centre/img/monument-close.jpg\" >"
                 },
                 {
                     "yaw": -2.069379916146616,
                     "pitch": -0.0049843262708648695,
                     "title": "\"The boy with the hydra\" fountain",
-                    "text": "TODO"
+                    "text": " <img src=\"/api/static/centre/img/hydra.jpg\" >"
                 }
             ]
         }

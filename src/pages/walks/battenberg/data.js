@@ -42,7 +42,7 @@ export const APP_DATA = {
                     "yaw": -2.5245024407862093,
                     "pitch": -0.05698909279867159,
                     "title": "Bistro \"Balkan\"",
-                    "text": "This building, named hotel \"Bristol\", was constructed in 1905-1907, and it was named after hotel Bristol (1892) in Vienna. Apart from the accommodation purposes it served, it also housed the workshop of Tevo Papazyan - a goldsmith and watchmaker and the shop of the merchant Dimitar Gaydov. After 1944, the hotel was nationalized and renamed to \"Republic\", \"Moscow\", later changing its name yet again to its current one - \"Balkan\". There were also two restaurants, pastry shop and a pub here."
+                    "text": "This building, named hotel \"Bristol\", was constructed in 1905-1907, and it was named after hotel Bristol (1892) in Vienna. Apart from the accommodation purposes it served, it also housed the workshop of Tevo Papazyan - a goldsmith and watchmaker and the shop of the merchant Dimitar Gaydov. <br /><br />After 1944, the hotel was nationalized and renamed to \"Republic\", \"Moscow\", later changing its name yet again to its current one - \"Balkan\". There were also two restaurants, pastry shop and a pub here."
                 },
                 {
                     "yaw":-0.06530422242429523,
@@ -102,6 +102,12 @@ export const APP_DATA = {
                     "pitch": -0.4902281500655743,
                     "title": "Kubrat square",
                     "text": "This building was built by Baklovi brother, one of the pillars of the Bulgarian economy after the Liberation in 1911. Initially, it included a bank and commercial offices. The economic crisis in 1920 brought the brothers to bankruptcy, so they had to cease their activities and sell the building. In 1945, a 3-storey department store (which included hotel, restaurant and shops was opened. Later, the first floor was occupied by the emblematic store \"1001 goods\". The store is long gone, but yet people from Ruse still use this name for the building. Commercial and office activities here still continue. "
+                },
+                {
+                    "yaw": 2.8899738679580853,
+                    "pitch": -0.04600309778032674,
+                    "title": "Ruse centre walk",
+                    "text": "Explore Ruse centre walk <br /><br /> <a href=\"/walk/ruse-centre\"><img src=\"/api/static/centre/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -303,9 +309,9 @@ export const APP_DATA = {
                 },
                 {
                     "yaw": 2.141662936613651,
-                    "pitch": 0.1274615618510655,
-                    "title": "sexagitna link<div><br></div>",
-                    "text": "Text"
+                    "pitch": 0.0274615618510655,
+                    "title": "Sexaginta prista walk",
+                    "text": "Explore Sexaginta prista walk <br /><br /> <a href=\"/walk/sexaginta-prista\"><img src=\"/api/static/sexaginta/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -556,7 +562,7 @@ export const APP_DATA = {
                     "yaw": -1.0616031435514905,
                     "pitch": -0.5290498552355949,
                     "title": "\"Hristo Botev\" high school",
-                    "text": "The building was constructed between 1894-1898 to serve as a new place for Men's High School \"Knyaz Boris I\". The building itself is a cultural monument of national importance. The architect is Petko Momchilov (1868-1923) who graduated in Prague in 1892. The school was and is still famous with its high quality of education and strict discipline and that's why people from Ruse jokingly call it the Bastille. <br /> Stoyan Mihajlovski, the author of the \"anthem of Bulgarian education\" \"Go people revived\" wrote the text while he was  a teacher in French here. Tsvetan Radoslavov, the author of the Bulgarian anthem, was also a teacher here. Here also began the first museum work in Ruse by the Skorpil Brothers. The founder of Bulgarian archeology Karl Shkorpil was a teacher here, and after him Hermantild Shkorpil created an archeological collection, which in turn set the beginning of Ruse Historical Museum. The school officially adopted its current name \"Hristo Botev\" in 1945."
+                    "text": "The building was constructed between 1894-1898 to serve as a new place for Men's High School \"Knyaz Boris I\". The building itself is a cultural monument of national importance. The architect is Petko Momchilov (1868-1923) who graduated in Prague in 1892. The school was and is still famous with its high quality of education and strict discipline and that's why people from Ruse jokingly call it the Bastille. <br /><br /> Stoyan Mihajlovski, the author of the \"anthem of Bulgarian education\" \"Go people revived\" wrote the text while he was  a teacher in French here. Tsvetan Radoslavov, the author of the Bulgarian anthem, was also a teacher here. <br /><br /> Here also began the first museum work in Ruse by the Skorpil Brothers. The founder of Bulgarian archeology Karl Shkorpil was a teacher here, and after him Hermantild Shkorpil created an archeological collection, which in turn set the beginning of Ruse Historical Museum. The school officially adopted its current name \"Hristo Botev\" in 1945."
                 }
             ]
         },
@@ -662,7 +668,7 @@ export const APP_DATA = {
                     "yaw": -2.259266318585068,
                     "pitch": -0.48321489200013623,
                     "title": "Ecomuseum",
-                    "text": "In 1901, the district administration of Ruse commissioned the city engineer Eduard Winter to design an administrative building for the technical service tribunal of the administration. The last owner of the completely reconstructed and upgraded with another floor and attic building, is the Department of Nature at the Regional Historical Museum of Ruse. In 2014, a modern Ecomuseum was opened, which presents the connection of man with nature by presenting the protected areas along the Danube river. The museum is accommodated within four floors, where a rich collection of fossils can be found, as well as dioramas that present different animal species within the real environment. This is also the site with the largest freshwater aquarium in Bulgaria with fish from Danube. Special attention within the exhibition is paid to the Prehistoric animals. There is a model of a Wolly Mammoth (Mammuthus primigenius) in real-life size. The lower jaw of Mammuthus rumanus - the only one that is preserved from this kind of mammoth in the world, is also exhibited here."
+                    "text": "In 1901, the district administration of Ruse commissioned the city engineer Eduard Winter to design an administrative building for the technical service tribunal of the administration. <br /><br />The last owner of the completely reconstructed and upgraded with another floor and attic building, is the Department of Nature at the Regional Historical Museum of Ruse. <br /><br />In 2014, a modern Ecomuseum was opened, which presents the connection of man with nature by presenting the protected areas along the Danube river. <br /><br />The museum is accommodated within four floors, where a rich collection of fossils can be found, as well as dioramas that present different animal species within the real environment. This is also the site with the largest freshwater aquarium in Bulgaria with fish from Danube. <br /><br />Special attention within the exhibition is paid to the Prehistoric animals. There is a model of a Wolly Mammoth (Mammuthus primigenius) in real-life size. The lower jaw of Mammuthus rumanus - <strong>the only one that is preserved from this kind of mammoth in the world, is also exhibited here.</strong>"
                 }
             ]
         },
@@ -717,7 +723,13 @@ export const APP_DATA = {
                     "targetYaw": -2.7964150842173296
                 }
             ],
-            "infoHotspots": []
+            "infoHotspots": [
+                {
+                    "yaw":0.2019037749143422,"pitch":-0.05396455332168415,
+                    "title": "Museum management",
+                    "text": "The building that houses the the Museum management now has been a police station before."
+                }
+            ]
         },
         {
             "id": "14-13---history-musem-2",
@@ -768,13 +780,13 @@ export const APP_DATA = {
                     "yaw": -1.089537381501474,
                     "pitch": -0.39834708684601594,
                     "title": "Ruse Regional Museum of History",
-                    "text": "This building was constructed in 1882 by Friedrich Gruenanger for The Regional governor of Ruse. It is famous as the \"Batemberg Palace\", but it was never a royal residence. Before the Liberation, in the very same spot, there used to be also administration building – konak, and a prison just behind it. The building from 1882 is the first building in Bulgaria constructed specifically for administrative needs.  The district administration was housed in it for 70 years. Here were the offices of Nikola Obretenov, Alexander Kanazirski and other notable figures from the history of the city. Historians judge that it was never designed as a royal residence, because there are no bedrooms, kitchens, bathrooms or dining rooms, which are mandatory for every palace. In 1946, the building was re-purposed as District Court. Since 2007, it houses the Ruse Historical Museum and its treasures. "
+                    "text": "This building was constructed in 1882 by Friedrich Gruenanger for The Regional governor of Ruse. It is famous as the \"Batemberg Palace\", but it was never a royal residence. Before the Liberation, in the very same spot, there used to be also administration building – konak, and a prison just behind it. The building from 1882 is the first building in Bulgaria constructed specifically for administrative needs.  The district administration was housed in it for 70 years. Here were the offices of Nikola Obretenov, Alexander Kanazirski and other notable figures from the history of the city. Historians judge that it was never designed as a royal residence, because there are no bedrooms, kitchens, bathrooms or dining rooms, which are mandatory for every palace. <br /><br />In 1946, the building was re-purposed as District Court.<br /><br /> Since 2007, it houses the Ruse Historical Museum and its treasures. "
                 },
                 {
                     "yaw": -1.0875618268096723,
                     "pitch": -0.042988324000187816,
-                    "title": "museum link",
-                    "text": "Text"
+                    "title": "History museum walk",
+                    "text": "Explore History museum walk <br /><br /> <a href=\"/walk/history-museum\"><img src=\"/api/static/history/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -894,7 +906,7 @@ export const APP_DATA = {
                     "yaw": 0.1425680924711834,
                     "pitch": -0.8272107933885628,
                     "title": "Lyuben Karavelov Regional Library",
-                    "text": "Lyuben Karavelov” Regional Library is one of the oldest and earliest established spiritual centers in Bulgaria. It is the logical end of the national revival, part of the spiritual upsurge and legitimacy of the world after the Liberation in 1878. The library was first housed at 1 Knyazheska Street, in the house of the Revivalist Yosif Dainelov. The building that houses the library now was used to be Chamber of Commerce and Industry (the first in Bulgaria) and belonged to the members of Danube Educational Society, but they gradually ceded its premises entirely for the needs of the library, and they donated all the inventory and books, acquired with municipal and company money."
+                    "text": "Lyuben Karavelov” Regional Library is one of the oldest and earliest established spiritual centers in Bulgaria. It is the logical end of the national revival, part of the spiritual upsurge and legitimacy of the world after the Liberation in 1878. <br /><br />The library was first housed at 1 Knyazheska Street, in the house of the Revivalist Yosif Dainelov. <br /><br />The building that houses the library now was used to be Chamber of Commerce and Industry (the first in Bulgaria) and belonged to the members of Danube Educational Society, but they gradually ceded its premises entirely for the needs of the library, and they donated all the inventory and books, acquired with municipal and company money."
                 }
             ]
         },
@@ -1279,7 +1291,7 @@ export const APP_DATA = {
                     "yaw": 0.11088769416879884,
                     "pitch": 0.33169231227543605,
                     "title": "Monument",
-                    "text": "A monument to the officers and lower ranks of the 5th Danube Infantry Regiment killed in the Serbo-Bulgarian War has been erected on Battenberg Square. This is the most revered military monument in the region. The Serbo-Bulgarian war was a war between the Kingdom of Serbia and Principality of Bulgaria that erupted on 14 November [O.S. 2 November] 1885 and lasted until 28 November [O.S. 16 November] 1885. Serbia took the initiative in starting the war but was decisively defeated. Austria demanded Bulgaria stop its invasion, and a truce resulted. Final peace was signed on 3 March [O.S. 19 February] 1886 in Bucharest. The old boundaries were not changed. As a result of the war, European powers acknowledged the act of Unification of Bulgaria with Eastern Rumelia. "
+                    "text": "A monument to the officers and lower ranks of the 5th Danube Infantry Regiment killed in the Serbo-Bulgarian War has been erected on Battenberg Square. This is the most revered military monument in the region. <br /><br />The Serbo-Bulgarian war was a war between the Kingdom of Serbia and Principality of Bulgaria that erupted on 14 November [O.S. 2 November] 1885 and lasted until 28 November [O.S. 16 November] 1885. Serbia took the initiative in starting the war but was decisively defeated. Austria demanded Bulgaria stop its invasion, and a truce resulted. Final peace was signed on 3 March [O.S. 19 February] 1886 in Bucharest. The old boundaries were not changed. As a result of the war, European powers acknowledged the act of Unification of Bulgaria with Eastern Rumelia. "
                 },
                 {
                     "yaw":-0.011631251136133613,
