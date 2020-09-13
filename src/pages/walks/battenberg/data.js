@@ -251,7 +251,7 @@ export const APP_DATA = {
                     "pitch": 0.4072095248398142,
                     "rotation": 6.283185307179586,
                     "target": "5-5---1---elias-kaneti",
-                    "targetYaw": -2.4625924465158473
+                    "targetYaw": 2.4779954218232385
                 }
             ],
             "infoHotspots": []
@@ -304,8 +304,8 @@ export const APP_DATA = {
                 {
                     "yaw": -2.292404239077417,
                     "pitch": 0.2712063171622976,
-                    "title": "elias kaneti info<div><br></div>",
-                    "text": "Text"
+                    "title": "The Monument of Elias Canetti",
+                    "text": "Elias Canetti is a German writer, who was bon in Bulgaria. He received the Nobel Prize for literature (as Austrian writer) in 1981.<br /><br />He spent his childhood years in Ruse. His family moved (1911) in Manchester, where his father died in 1912 – according to Canetti, this happened at the news of the outbreak of the Balkan War. Canetti family moved to Lausanne, then in Vienna. Elias taught German at the time, also using Bulgarian, English and French. Afterwards, the family moved to Zurich (1916-1921) and thereafter (until 1924) – Frankfurt, where he finished high school. In 1924 he became a student in chemistry at the University of Vienna and graduated with a doctorate in 1929.<br /><br />In the honor of the writer, his birth town of Ruse, founded in 2005 the National Prize for Literature “Elias Canetti”."
                 },
                 {
                     "yaw": 2.141662936613651,

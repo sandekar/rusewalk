@@ -1,0 +1,10 @@
+.WalkText {
+    display: block;
+
+    &.expandable {
+        .ReadMoreButton {
+            padding: 0;
+            border: 0;
+        }
+    }
+}

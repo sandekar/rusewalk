@@ -1,5 +1,10 @@
 .HomePage {
     .HomePageWalkCard {
         margin-bottom: 2em;
+
+        &:hover {
+            transform: scale(1.02);
+            transition: all 0.1s ease-out;
+        }
     }
 }

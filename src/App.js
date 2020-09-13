@@ -9,7 +9,6 @@ import BattenbergWalkPage from "./pages/walks/BattenbergWalkPage";
 import HistoryMuseumWalkPage from "./pages/walks/HistoryMuseumWalkPage";
 import SexagintaPristaWalkPage from "./pages/walks/SexagintaPristaWalkPage";
 import IvanovoRockMonasteryWalkPage from "./pages/walks/IvanovoRockMonasteryWalkPage";
-import AboutPage from "./pages/AboutPage";
 
 import './App.scss';
 
@@ -25,7 +24,6 @@ function App() {
                         <Route exact path="/walk/history-museum" component={HistoryMuseumWalkPage}/>
                         <Route exact path="/walk/sexaginta-prista" component={SexagintaPristaWalkPage}/>
                         <Route exact path="/walk/ivanovo-rock-monastery" component={IvanovoRockMonasteryWalkPage}/>
-                        <Route exact path="/about" component={AboutPage}/>
                     </Switch>
                 </Layout>
             </Router>

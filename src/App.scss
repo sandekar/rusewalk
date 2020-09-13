@@ -1,9 +1,9 @@
 @import "bootstrap/dist/css/bootstrap";
 
+$background-color: #E7ECEF;
+
 body {
-    /*TODO: choose something bluish*/
-    background-color: #212529;
-    color: white
+    background-color: $background-color;
 }
 
 .mernik {
@@ -11,4 +11,9 @@ body {
     top: calc(50vh);
     left: calc(50vw);
     z-index: 9999;
+}
+
+@font-face {
+    font-family: 'Mont Heavy';
+    src: url('./style/Mont-HeavyDEMO.otf') format('opentype');
 }

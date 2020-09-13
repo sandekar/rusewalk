@@ -7,7 +7,6 @@ import "./Layout.scss";
 
 export default class Layout extends React.Component {
     render() {
-        // TODO: add top background pic of ruse, maybe several with transition
         return (
             <div className="Layout">
                 <Header/>

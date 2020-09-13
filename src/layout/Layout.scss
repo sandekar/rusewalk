@@ -1,11 +1,23 @@
+
+$navbar-color: #274C77;
+
 .Layout {
+
+  .Header {
+    .navbar-brand {
+       font-weight: bold;
+       font-family: 'Mont Heavy', serif;
+     }
+  }
+
   .LayoutContent {
     margin-top: 5em;
-    min-height: calc(100vh - 5em - 56px);
   }
 
   .Footer {
-    //TODO meeeh
-    max-height: 56px;
+    .FooterText {
+      font-size: 0.9em;
+      color: grey;
+    }
   }
 }

@@ -1,17 +1,12 @@
 
 .MarzipanoWrapperInner {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
-  //TODO: something more dynamic
-  min-height: calc(85vh);
+  min-height: calc(90vh - 50px);
+  color: white;
 }
-
-//a, a:hover, a:active, a:visited {
-//  text-decoration: none;
-//  color: inherit;
-//}
 
 #titleBar {
   position: absolute;

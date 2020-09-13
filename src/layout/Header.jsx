@@ -7,13 +7,12 @@ import {Link} from "react-router-dom";
 export default class Header extends React.Component {
     render() {
         return (
-            <Navbar bg="dark" variant="dark" fixed="top">
+            <Navbar bg="light" fixed="top" className="Header">
                 <Link to="/">
                     <Navbar.Brand>
                         <img
                             alt=""
                             src={logo}
-                            width="30"
                             height="30"
                             className="d-inline-block align-top"
                         />{' '}
@@ -23,26 +22,27 @@ export default class Header extends React.Component {
 
                 <Nav className="mr-auto"/>
 
-                <NavDropdown title="Explore" id="basic-nav-dropdown">
+                <NavDropdown title="Explore" id="basic-nav-dropdown" alignRight>
                     <NavDropdown.Item href="/walk/ruse-centre">
                         Ruse centre
                     </NavDropdown.Item>
+
                     <NavDropdown.Item href="/walk/old-centre">
                         Old centre
                     </NavDropdown.Item>
+
                     <NavDropdown.Item href="/walk/history-museum">
-                        History museum
+                        Regional museum of History – Ruse
                     </NavDropdown.Item>
+
                     <NavDropdown.Item href="/walk/sexaginta-prista">
-                        Sexaginta prista
+                        Roman Fort of Sexaginta prista
                     </NavDropdown.Item>
 
                     <NavDropdown.Item href="/walk/ivanovo-rock-monastery">
-                        Ivanovo rock monastery
+                        Ivanovo Rock-Hewn Churches
                     </NavDropdown.Item>
-
                 </NavDropdown>
-                <Nav.Link href="/about">About</Nav.Link>
             </Navbar>
         );
     }
