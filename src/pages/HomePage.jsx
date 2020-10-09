@@ -10,6 +10,8 @@ import battenberg from './thumbs/battenberg.jpg';
 import history from './thumbs/history.jpg';
 import sexaginta from './thumbs/sexaginta.jpg';
 import ivanovo from "./thumbs/ivanovo.jpg";
+import adeo from "./thumbs/adeo.jpg";
+import youth from "./thumbs/youth.jpg";
 
 export default class HomePage extends React.Component {
     render() {
@@ -122,6 +124,45 @@ export default class HomePage extends React.Component {
                                     in 1979." />
                                 </Card.Text>
                                 <Link to="/walk/ivanovo-rock-monastery">
+                                    <Button variant="primary">Explore</Button>
+                                </Link>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                    {/*Youth*/}
+                    <Col xl={4} md={6} sm={12}>
+                        <Card className="HomePageWalkCard">
+                            <Card.Img variant="top" src={youth}/>
+                            <Card.Body>
+                                <Card.Title>Youth Park</Card.Title>
+                                <Card.Text>
+                                    <WalkText text="
+                                        The Youth Park is a favorite place of Ruse residents for
+                                        recreation and walks. There used to be a hunting lodge and
+                                        a stadium in its place before 1953." />
+                                </Card.Text>
+                                <Link to="/walk/youth-park">
+                                    <Button variant="primary">Explore</Button>
+                                </Link>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                    {/*Adeo*/}
+                    <Col xl={4} md={6} sm={12}>
+                        <Card className="HomePageWalkCard">
+                            <Card.Img variant="top" src={adeo}/>
+                            <Card.Body>
+                                <Card.Title>ADEO Hotel</Card.Title>
+                                <Card.Text>
+                                    <WalkText text="Located on the central pedestrian street,
+                                    Adeo Hotel gives access to all administrative and cultural
+                                    institutions in the city of Ruse.The hotel has 30 extremely
+                                    comfortable and luxuriously appointed rooms, a luxurious
+                                    conference and business meeting room, high-speed internet,
+                                    digital TV, parking and a dining room
+                                    " />
+                                </Card.Text>
+                                <Link to="/walk/adeo-hotel">
                                     <Button variant="primary">Explore</Button>
                                 </Link>
                             </Card.Body>
