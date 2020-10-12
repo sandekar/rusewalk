@@ -42,6 +42,14 @@ export default class Header extends React.Component {
                     <NavDropdown.Item href="/walk/ivanovo-rock-monastery">
                         Ivanovo Rock-Hewn Churches
                     </NavDropdown.Item>
+
+                    <NavDropdown.Item href="/walk/youth-park">
+                        Youth Park
+                    </NavDropdown.Item>
+
+                    <NavDropdown.Item href="/walk/adeo-hotel">
+                        ADEO Hotel
+                    </NavDropdown.Item>
                 </NavDropdown>
             </Navbar>
         );

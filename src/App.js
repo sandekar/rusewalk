@@ -9,6 +9,8 @@ import BattenbergWalkPage from "./pages/walks/BattenbergWalkPage";
 import HistoryMuseumWalkPage from "./pages/walks/HistoryMuseumWalkPage";
 import SexagintaPristaWalkPage from "./pages/walks/SexagintaPristaWalkPage";
 import IvanovoRockMonasteryWalkPage from "./pages/walks/IvanovoRockMonasteryWalkPage";
+import AdeoHotelWalkPage from "./pages/walks/AdeoHotelWalkPage";
+import YouthParkWalkPage from "./pages/walks/YouthParkWalkPage";
 
 import './App.scss';
 
@@ -24,6 +26,8 @@ function App() {
                         <Route exact path="/walk/history-museum" component={HistoryMuseumWalkPage}/>
                         <Route exact path="/walk/sexaginta-prista" component={SexagintaPristaWalkPage}/>
                         <Route exact path="/walk/ivanovo-rock-monastery" component={IvanovoRockMonasteryWalkPage}/>
+                        <Route exact path="/walk/adeo-hotel" component={AdeoHotelWalkPage}/>
+                        <Route exact path="/walk/youth-park" component={YouthParkWalkPage}/>
                     </Switch>
                 </Layout>
             </Router>
