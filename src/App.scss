@@ -1,19 +1,12 @@
-@import "bootstrap/dist/css/bootstrap";
+@import "bootstrap/dist/css/bootstrap.min.css";
 
 $background-color: #E7ECEF;
 
 body {
-    background-color: $background-color;
-}
-
-.mernik {
-    position: fixed;
-    top: calc(50vh);
-    left: calc(50vw);
-    z-index: 9999;
+  background-color: $background-color;
 }
 
 @font-face {
-    font-family: 'Mont Heavy';
-    src: url('./style/Mont-HeavyDEMO.otf') format('opentype');
+  font-family: 'Mont Heavy';
+  src: url('./style/Mont-HeavyDEMO.otf') format('opentype');
 }
