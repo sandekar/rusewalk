@@ -42,13 +42,13 @@ export const APP_DATA = {
                     "yaw": -0.8734138382070817,
                     "pitch": -0.06901299419286566,
                     "title": "Shield",
-                    "text": "<img src=\"/api/static/sexaginta/img/shield.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/shield.jpg\" >"
                 },
                 {
                     "yaw": -1.101548746126218,
                     "pitch": -0.05245441527462269,
                     "title": "Old centre walk",
-                    "text": "Explore Ruse old centre walk <br /><br /> <a href=\"/walk/old-centre\"><img src=\"/api/static/battenberg/thumb.jpg\" ></a>"
+                    "text": "Explore Ruse old centre walk <br /><br /> <a href=\"/walk/old-centre\"><img src=\"/static/battenberg/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -114,7 +114,7 @@ export const APP_DATA = {
                     "yaw":-2.26079989885608,
                     "pitch":0.14396396610117534,
                     "title": "Tombstone",
-                    "text": "<img src=\"/api/static/sexaginta/img/tombstone.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/tombstone.jpg\" >"
                 }
             ]
         },
@@ -583,7 +583,7 @@ export const APP_DATA = {
                     "yaw": -0.47396788049804783,
                     "pitch": -0.17798654301739077,
                     "title": "Ship tablet",
-                    "text": "<img src=\"/api/static/sexaginta/img/ship-tablet.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/ship-tablet.jpg\" >"
                 }
             ]
         },
@@ -1043,7 +1043,7 @@ export const APP_DATA = {
                     "yaw": -2.0867679639923935,
                     "pitch": -0.11774791186718048,
                     "title": "Ship",
-                    "text": "<img src=\"/api/static/sexaginta/img/ship.jpeg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/ship.jpeg\" >"
                 }
             ]
         },
@@ -1096,7 +1096,7 @@ export const APP_DATA = {
                     "yaw": -1.7451854092698298,
                     "pitch": -0.1963484954379311,
                     "title": "Inscription stone",
-                    "text": "This is the first inscription that mentions the city of Sexaginta Prista. It is curious to know that there is a spelling error in the very name itself (SEXSAGINTA instead of SEXAGINTA). The name of the fortress translates as Port of the 60 ships (A particular type of ship, called Pristis). After analyzing all available sources, it was found that the castle got its name in connection with events from the end of the first century, namely the Dacian Wars of Emperor Domitian (85-89). Then a Roman legion, consisting of approximately 6,000 men, was transferred across the Danube River, at the mouth of the Rusenski Lom River. Exactly 60 pristis-type ships would be needed for this type of operation. In honor of the victory over the Dacians, the castle received its new name and before its fortification, it probably bore the Thracian name of Rusenski Lom river. <br /><br /> <img src=\"/api/static/sexaginta/img/inscription-stone.jpeg\" >"
+                    "text": "This is the first inscription that mentions the city of Sexaginta Prista. It is curious to know that there is a spelling error in the very name itself (SEXSAGINTA instead of SEXAGINTA). The name of the fortress translates as Port of the 60 ships (A particular type of ship, called Pristis). After analyzing all available sources, it was found that the castle got its name in connection with events from the end of the first century, namely the Dacian Wars of Emperor Domitian (85-89). Then a Roman legion, consisting of approximately 6,000 men, was transferred across the Danube River, at the mouth of the Rusenski Lom River. Exactly 60 pristis-type ships would be needed for this type of operation. In honor of the victory over the Dacians, the castle received its new name and before its fortification, it probably bore the Thracian name of Rusenski Lom river. <br /><br /> <img src=\"/static/sexaginta/img/inscription-stone.jpeg\" >"
                 },
                 {
                     "yaw": -2.535087747524651,
@@ -1167,13 +1167,13 @@ export const APP_DATA = {
                     "yaw": -0.2716055106009634,
                     "pitch": 0.4450079466414145,
                     "title": "Inscription tablet",
-                    "text": "<img src=\"/api/static/sexaginta/img/tablet1.jpeg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/tablet1.jpeg\" >"
                 },
                 {
                     "yaw": -0.7610425396451248,
                     "pitch": 0.3832071833942621,
                     "title": "Column",
-                    "text": "<img src=\"/api/static/sexaginta/img/column.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/column.jpg\" >"
                 }
             ]
         },
@@ -1324,19 +1324,19 @@ export const APP_DATA = {
                     "yaw":-0.47154496726245675,
                     "pitch":-0.2509831927524644,
                     "title": "Diana",
-                    "text": "<img src=\"/api/static/sexaginta/img/diana.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/diana.jpg\" >"
                 },
                 {
                     "yaw":-0.13761596025980282,
                     "pitch":-0.309831927524644,
                     "title": "Gods",
-                    "text": "<img src=\"/api/static/sexaginta/img/gods.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/gods.jpg\" >"
                 },
                 {
                     "yaw":0.2392843114464771,
                     "pitch":-0.2509831927524644,
                     "title": "Hercules",
-                    "text": "<img src=\"/api/static/sexaginta/img/hercules.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/hercules.jpg\" >"
                 },
                 {
                     "yaw": 3.09319785749749,
@@ -1348,19 +1348,19 @@ export const APP_DATA = {
                     "yaw":2.758794419558777,
                     "pitch":-0.1270018599139604,
                     "title": "Horse",
-                    "text": "<img src=\"/api/static/sexaginta/img/horse3.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/horse3.jpg\" >"
                 },
                 {
                     "yaw":3.055560130360245,
                     "pitch":-0.21068343919756316,
                     "title": "Horse",
-                    "text": "<img src=\"/api/static/sexaginta/img/horse1.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/horse1.jpg\" >"
                 },
                 {
                     "yaw":-2.928725889352272,
                     "pitch":-0.14505004023976653,
                     "title": "Horse",
-                    "text": "<img src=\"/api/static/sexaginta/img/horse2.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/horse2.jpg\" >"
                 }
             ]
         },
@@ -1459,19 +1459,19 @@ export const APP_DATA = {
                     "yaw": 2.1934704350698997,
                     "pitch": -0.0738237828925925,
                     "title": "Altar",
-                    "text": "<img src=\"/api/static/sexaginta/img/altar.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/altar.jpg\" >"
                 },
                 {
                     "yaw": 1.5996175529622976,
                     "pitch": 0.039295782670592416,
                     "title": "Lion",
-                    "text": "<img src=\"/api/static/sexaginta/img/lion.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/lion.jpg\" >"
                 },
                 {
                     "yaw":2.1694068432624967,
                     "pitch":-0.5055804452829449,
                     "title": "Mithras",
-                    "text": "<img src=\"/api/static/sexaginta/img/mithras.jpg\" >"
+                    "text": "<img src=\"/static/sexaginta/img/mithras.jpg\" >"
                 },
                 {
                     "yaw": 1.2520035394738933,

@@ -66,7 +66,7 @@ function createLinkHotspotElement(hotspot, data, constructedScenes) {
 
     // Create image element.
     var icon = document.createElement('img');
-    icon.src = '/api/static/img/link.png';
+    icon.src = '/static/img/link.png';
     icon.classList.add('link-hotspot-icon');
 
     // Set rotation transform.
@@ -115,7 +115,7 @@ function createInfoHotspotElement(hotspot) {
     var iconWrapper = document.createElement('div');
     iconWrapper.classList.add('info-hotspot-icon-wrapper');
     var icon = document.createElement('img');
-    icon.src = '/api/static/img/info.png';
+    icon.src = '/static/img/info.png';
     icon.classList.add('info-hotspot-icon');
     iconWrapper.appendChild(icon);
 
@@ -131,7 +131,7 @@ function createInfoHotspotElement(hotspot) {
     var closeWrapper = document.createElement('div');
     closeWrapper.classList.add('info-hotspot-close-wrapper');
     var closeIcon = document.createElement('img');
-    closeIcon.src = '/api/static/img/close.png';
+    closeIcon.src = '/static/img/close.png';
     closeIcon.classList.add('info-hotspot-close-icon');
     closeWrapper.appendChild(closeIcon);
 

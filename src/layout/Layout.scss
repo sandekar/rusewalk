@@ -1,12 +1,9 @@
-
-$navbar-color: #274C77;
-
 .Layout {
 
   .Header {
-    .navbar-brand {
-       font-weight: bold;
-       font-family: 'Mont Heavy', serif;
+    .navbar-brand, .dropdown-toggle {
+      font-weight: bold;
+      font-family: 'Mont Heavy', serif;
      }
   }
 

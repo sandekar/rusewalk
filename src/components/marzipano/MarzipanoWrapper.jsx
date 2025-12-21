@@ -5,7 +5,7 @@ import * as WindowUtils from "./window-utils";
 
 import "./MarzipanoWrapper.scss";
 
-const STATIC_API_ENDPOINT = '/api/static/';
+const STATIC_API_ENDPOINT = '/static/';
 
 export default class MarzipanoWrapper extends React.Component {
 

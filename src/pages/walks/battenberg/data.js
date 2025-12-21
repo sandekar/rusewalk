@@ -107,7 +107,7 @@ export const APP_DATA = {
                     "yaw": 2.8899738679580853,
                     "pitch": -0.04600309778032674,
                     "title": "Ruse centre walk",
-                    "text": "Explore Ruse centre walk <br /><br /> <a href=\"/walk/ruse-centre\"><img src=\"/api/static/centre/thumb.jpg\" ></a>"
+                    "text": "Explore Ruse centre walk <br /><br /> <a href=\"/walk/ruse-centre\"><img src=\"/staticcentre/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -311,7 +311,7 @@ export const APP_DATA = {
                     "yaw": 2.141662936613651,
                     "pitch": 0.0274615618510655,
                     "title": "Sexaginta prista walk",
-                    "text": "Explore Sexaginta prista walk <br /><br /> <a href=\"/walk/sexaginta-prista\"><img src=\"/api/static/sexaginta/thumb.jpg\" ></a>"
+                    "text": "Explore Sexaginta prista walk <br /><br /> <a href=\"/walk/sexaginta-prista\"><img src=\"/staticsexaginta/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -786,7 +786,7 @@ export const APP_DATA = {
                     "yaw": -1.0875618268096723,
                     "pitch": -0.042988324000187816,
                     "title": "History museum walk",
-                    "text": "Explore History museum walk <br /><br /> <a href=\"/walk/history-museum\"><img src=\"/api/static/history/thumb.jpg\" ></a>"
+                    "text": "Explore History museum walk <br /><br /> <a href=\"/walk/history-museum\"><img src=\"/statichistory/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -966,7 +966,7 @@ export const APP_DATA = {
                     "yaw": -2.0733097113349963,
                     "pitch": 0.1738993183933104,
                     "title": "Fountain",
-                    "text": "The fountain was built in the 60s from the sculptor Lyubomir Dalchev. The composition consists of four naked bronze girls, drenched in water from the mouths of dragonflies – very bold solution for this time period.<br/><br/><video width=\"320\" height=\"240\" controls>  <source src=\"/api/static/battenberg/media/battenberg.mp4\" type=\"video/mp4\">  Your browser does not support the video tag.</video>"
+                    "text": "The fountain was built in the 60s from the sculptor Lyubomir Dalchev. The composition consists of four naked bronze girls, drenched in water from the mouths of dragonflies – very bold solution for this time period.<br/><br/><video width=\"320\" height=\"240\" controls>  <source src=\"/static/battenberg/media/battenberg.mp4\" type=\"video/mp4\">  Your browser does not support the video tag.</video>"
                 }
             ]
         },
@@ -1297,13 +1297,13 @@ export const APP_DATA = {
                     "yaw":-0.011631251136133613,
                     "pitch":-0.5705900617361035,
                     "title": "Monument",
-                    "text": "<img src=\"/api/static/battenberg/media/statue.jpg\" >"
+                    "text": "<img src=\"/static/battenberg/media/statue.jpg\" >"
                 },
                  {
                      "yaw": -0.111631251136133613,
                      "pitch": -0.1705900617361035,
                      "title": "Monument",
-                     "text": "<img src=\"/api/static/battenberg/media/statue-lower.jpg\" >"
+                     "text": "<img src=\"/static/battenberg/media/statue-lower.jpg\" >"
                  }
             ]
         },

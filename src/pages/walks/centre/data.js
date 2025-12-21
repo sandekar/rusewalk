@@ -56,13 +56,13 @@ export const APP_DATA = {
                     "yaw": -2.537618890079992,
                     "pitch": -0.35943129468531154,
                     "title": "\"Teteven\" Hotel",
-                    "text": "Initially called Hotel \"Boulevard\", this edifice was built by the wealthy Ruse citizen of French origin Andre Turio in 1897, and designed by the Italian architect Nino Rosetti. The building was sold by his heirs. <br /><br />In 1914 Bratan Revenski, born in Teteven, came to Ruse and started working as a confectioner. Later he bought the building of the former hotel \"Boulevard\", renamed it the Grand Hotel \"Teteven\", and on the ground floor he opened the famous confectionery \"Teteven\" in a typical Viennese style. The confectionery worked for almost 80 years until the early 1990s. <br /><br /> <img src=\"/api/static/centre/img/teteven.jpg\" > <br /><br /> <img src=\"/api/static/centre/img/teteven2.jpg\" >"
+                    "text": "Initially called Hotel \"Boulevard\", this edifice was built by the wealthy Ruse citizen of French origin Andre Turio in 1897, and designed by the Italian architect Nino Rosetti. The building was sold by his heirs. <br /><br />In 1914 Bratan Revenski, born in Teteven, came to Ruse and started working as a confectioner. Later he bought the building of the former hotel \"Boulevard\", renamed it the Grand Hotel \"Teteven\", and on the ground floor he opened the famous confectionery \"Teteven\" in a typical Viennese style. The confectionery worked for almost 80 years until the early 1990s. <br /><br /> <img src=\"/static/centre/img/teteven.jpg\" > <br /><br /> <img src=\"/static/centre/img/teteven2.jpg\" >"
                 },
                 {
                     "yaw": -2.403506579447697,
                     "pitch": 0.02448766640848632,
                     "title": "Old centre walk",
-                    "text": "Explore Ruse old centre walk <br /><br /> <a href=\"/walk/old-centre\"><img src=\"/api/static/battenberg/thumb.jpg\" ></a>"
+                    "text": "Explore Ruse old centre walk <br /><br /> <a href=\"/walk/old-centre\"><img src=\"/static/battenberg/thumb.jpg\" ></a>"
                 }
             ]
         },
@@ -122,7 +122,7 @@ export const APP_DATA = {
                     "yaw": -3.131798524524717,
                     "pitch": -0.47656028544435927,
                     "title": "Monument of liberty at night",
-                    "text": "<img src=\"/api/static/centre/img/monument-night.jpg\" >"
+                    "text": "<img src=\"/static/centre/img/monument-night.jpg\" >"
                 }
             ]
         },
@@ -181,7 +181,7 @@ export const APP_DATA = {
                     "yaw": 0.15743614815088947,
                     "pitch": 0.004074374436573436,
                     "title": "The fountain in front of the Courthouse",
-                    "text": "Before the fountain in front of the Courthouse, the emblematic \"Glass Booth\" was in this spot. It sold tickets for town buses, newspapers, snacks and cigarettes. The Glass Booth still lives in the memories of people, because it was a favorite meeting place. <br /><br /> <img src=\"/api/static/centre/img/glass-booth.jpg\" >"
+                    "text": "Before the fountain in front of the Courthouse, the emblematic \"Glass Booth\" was in this spot. It sold tickets for town buses, newspapers, snacks and cigarettes. The Glass Booth still lives in the memories of people, because it was a favorite meeting place. <br /><br /> <img src=\"/static/centre/img/glass-booth.jpg\" >"
                 }
             ]
         },
@@ -234,7 +234,7 @@ export const APP_DATA = {
                     "yaw": 0.09805894576115648,
                     "pitch": -0.48524311676422904,
                     "title": "The Clock, former headquarters of Girdap Bank",
-                    "text": "To the right of the Court House is the building of the former Girdap Bank. Girdap Shareholding Saving Company, was the first private bank in Bulgaria, established in 1881. <br /><br /> Girdap's central office in Ruse was located in a historic edifice at 2 Aleksandrovska Street that takes up 260 square metres (2,800 sq ft). It was finished in 1896 and designed by Samuil Danailov who at the time was still an architecture student. The building's attic was damaged in a fire in 1913. An additional storey was constructed in 1935 under the engineer Todor Tonev, turning the headquarters into a three-storey edifice. The trademark clock was added in the late 19th century. In 1964–1967, the building's interior was refurbished so it could accommodate the City People's Council.  <br /><br /> Nowadays, \"The Clock\" is the most famous and preferred meeting point in Ruse. <br /><br />  <img src=\"/api/static/centre/img/clocktower.jpg\" >"
+                    "text": "To the right of the Court House is the building of the former Girdap Bank. Girdap Shareholding Saving Company, was the first private bank in Bulgaria, established in 1881. <br /><br /> Girdap's central office in Ruse was located in a historic edifice at 2 Aleksandrovska Street that takes up 260 square metres (2,800 sq ft). It was finished in 1896 and designed by Samuil Danailov who at the time was still an architecture student. The building's attic was damaged in a fire in 1913. An additional storey was constructed in 1935 under the engineer Todor Tonev, turning the headquarters into a three-storey edifice. The trademark clock was added in the late 19th century. In 1964–1967, the building's interior was refurbished so it could accommodate the City People's Council.  <br /><br /> Nowadays, \"The Clock\" is the most famous and preferred meeting point in Ruse. <br /><br />  <img src=\"/static/centre/img/clocktower.jpg\" >"
                 },
                 {
                     "yaw": 0.6224361362080213,
@@ -629,27 +629,27 @@ export const APP_DATA = {
                 {
                     "yaw":-0.9129432319985593,"pitch":-0.5651224922936606,
                     "title": "1",
-                    "text": "<img src=\"/api/static/centre/img/dohodno-3.jpg\" > <br/> <br/> <img src=\"/api/static/centre/img/dohodno-4.jpg\" >"
+                    "text": "<img src=\"/static/centre/img/dohodno-3.jpg\" > <br/> <br/> <img src=\"/static/centre/img/dohodno-4.jpg\" >"
                 },
                 {
                     "yaw":-0.944577324690961,"pitch":-0.36603904833298806,
                     "title": "2",
-                    "text": "<img src=\"/api/static/centre/img/dohodno-2.jpg\" >"
+                    "text": "<img src=\"/static/centre/img/dohodno-2.jpg\" >"
                 },
                 {
                     "yaw":1.0178227902917243,"pitch":-0.6688209869470731,
                     "title": "3",
-                    "text": "<img src=\"/api/static/centre/img/dohodno-5.jpg\" > <br/> <br/> <img src=\"/api/static/centre/img/dohodno-6.jpg\" >"
+                    "text": "<img src=\"/static/centre/img/dohodno-5.jpg\" > <br/> <br/> <img src=\"/static/centre/img/dohodno-6.jpg\" >"
                 },
                 {
                     "yaw":0.9894621861821165,"pitch":-0.4081212510261061,
                     "title": "4",
-                    "text": "<img src=\"/api/static/centre/img/dohodno-7.jpg\" >"
+                    "text": "<img src=\"/static/centre/img/dohodno-7.jpg\" >"
                 },
                 {
                     "yaw":0.04117727960366224,"pitch":-1.021522241114198,
                     "title": "5",
-                    "text": "<img src=\"/api/static/centre/img/dohodno-1.jpg\" >"
+                    "text": "<img src=\"/static/centre/img/dohodno-1.jpg\" >"
                 }
             ]
         },
@@ -843,13 +843,13 @@ export const APP_DATA = {
                     "yaw": 0.14650947353888633,
                     "pitch": -0.6002683333781906,
                     "title": "Monument of freedom",
-                    "text": "The Monument of Freedom was built in 1909 with donations of the local community after the initiative of the Association of Volunteers in the Liberation War. It was designed by the architect Simeon Zlatev and Stoycho Kyarizov. The statue and the bas-reliefs were made by the Italian sculptor Arnoldo Zocchi.  <br /><br /> The figure of the woman symbolizes free Bulgaria. There are two bronze lions at the base: one is ripping off the chains of slavery, and the other one keeps guard of the Sword and Shield of Freedom. <br/><br/> <img src=\"/api/static/centre/img/monument-close.jpg\" >"
+                    "text": "The Monument of Freedom was built in 1909 with donations of the local community after the initiative of the Association of Volunteers in the Liberation War. It was designed by the architect Simeon Zlatev and Stoycho Kyarizov. The statue and the bas-reliefs were made by the Italian sculptor Arnoldo Zocchi.  <br /><br /> The figure of the woman symbolizes free Bulgaria. There are two bronze lions at the base: one is ripping off the chains of slavery, and the other one keeps guard of the Sword and Shield of Freedom. <br/><br/> <img src=\"/static/centre/img/monument-close.jpg\" >"
                 },
                 {
                     "yaw": -2.069379916146616,
                     "pitch": -0.0049843262708648695,
                     "title": "\"The boy with the hydra\" fountain",
-                    "text": " <img src=\"/api/static/centre/img/hydra.jpg\" >"
+                    "text": " <img src=\"/static/centre/img/hydra.jpg\" >"
                 }
             ]
         }

@@ -1,18 +1,16 @@
 import React from "react";
 import {Nav, Navbar, NavDropdown} from "react-bootstrap";
-
-import logo from "../images/liberty.png";
-import {Link} from "react-router-dom";
+import {Link} from "react-router";
 
 export default class Header extends React.Component {
     render() {
         return (
             <Navbar bg="light" fixed="top" className="Header">
-                <Link to="/">
+                <Link to="/" className="m-2">
                     <Navbar.Brand>
                         <img
                             alt=""
-                            src={logo}
+                            src="/liberty.png"
                             height="30"
                             className="d-inline-block align-top"
                         />{' '}
@@ -20,9 +18,7 @@ export default class Header extends React.Component {
                     </Navbar.Brand>
                 </Link>
 
-                <Nav className="mr-auto"/>
-
-                <NavDropdown title="Explore" id="basic-nav-dropdown" alignRight>
+                <NavDropdown title="Explore" id="basic-nav-dropdown" align="end" className="ms-auto m-2 fs-5">
                     <NavDropdown.Item href="/walk/ruse-centre">
                         Ruse centre
                     </NavDropdown.Item>

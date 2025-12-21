@@ -1,7 +1,7 @@
 import React from "react";
 import {Button, Card, Col, Container, Row} from "react-bootstrap";
-import {Link} from "react-router-dom";
 import WalkText from "../components/walk-text/WalkText";
+import {Link} from "react-router";
 
 import "./HomePage.scss";
 
