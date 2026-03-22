@@ -4,10 +4,16 @@
     .navbar-brand, .dropdown-toggle {
       font-weight: bold;
       font-family: 'Mont Heavy', serif;
-     }
+    }
   }
 
   .LayoutContent {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    min-height: calc(100vh - 10em);
+    height: calc(100vh - 10em);
+
     margin-top: 5em;
   }
 
@@ -17,4 +23,9 @@
       color: grey;
     }
   }
+}
+
+.embedded {
+  min-height: 100vh;
+  height: 100vh;
 }
